@@ -1,0 +1,725 @@
+﻿Common Name,Scientific Name,Species Group (Broad),Species Group (Fine),NatureServe Rounded Global Rank,U.S. Endangered Species Act Status,COSEWIC Status,SARA Status,Country: States / Provinces,NatureServeUniqueIdentifier,NatureServeElementCode,Sciname_underscore,Sciname,WAP15_ID,NC,NS_STATUS_NC
+Acadian Flycatcher,Empidonax virescens,Vertebrates,Birds,G5,,Endangered,Endangered/En voie de disparition,"US: AL, AR, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, WI, WV
+CA: ON",ELEMENT_GLOBAL.2.103712,ABPAE33020,Empidonax_virescens,Empidonax virescens,,77,S5B
+Alder Flycatcher,Empidonax alnorum,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NY, OH, OK, PA, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104821,ABPAE33030,Empidonax_alnorum,Empidonax alnorum,,97,S2B
+American Avocet,Recurvirostra americana,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MD, MI, MO, MS, MT, NC, ND, NE, NM, NN, NV, OH, OK, OR, SC, SD, TN, TX, UT, VA, WA, WY
+CA: AB, BC, MB, NT, ON, SK",ELEMENT_GLOBAL.2.100007,ABNND02010,Recurvirostra_americana,Recurvirostra americana,,85,S1N
+American Bittern,Botaurus lentiginosus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK",ELEMENT_GLOBAL.2.103409,ABNGA01020,Botaurus_lentiginosus,Botaurus lentiginosus,,109,"S1B,S3N"
+American Black Duck,Anas rubripes,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV
+CA: BC, LB, MB, NB, NF, NS, NU, ON, PE, QC, SK",ELEMENT_GLOBAL.2.102967,ABNJB10040,Anas_rubripes,Anas rubripes,,85,"S3B,S4N"
+American Coot,Fulica americana,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103406,ABNME14020,Fulica_americana,Fulica americana,,109,S5N
+American Crow,Corvus brachyrhynchos,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104686,ABPAV10170,Corvus_brachyrhynchos,Corvus brachyrhynchos,,109,"S5B,S5N"
+American Golden-Plover,Pluvialis dominica,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100680,,Pluvialis_dominica,Pluvialis dominica,,113,
+American Goldfinch,Spinus tristis,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.105854,,Spinus_tristis,Spinus tristis,,105,
+American Kestrel,Falco sparverius,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101079,ABNKD06020,Falco_sparverius,Falco sparverius,,109,"S2B,S5N"
+American Oystercatcher,Haematopus palliatus,Vertebrates,Birds,G5,,,,"US: AL, CT, DE, FL, GA, LA, MA, MD, ME, MS, NC, NJ, NY, RI, SC, TX, VA
+CA: NS",ELEMENT_GLOBAL.2.102614,ABNNC01010,Haematopus_palliatus,Haematopus palliatus,,45,"S2B,S3N"
+American Peregrine Falcon,Falco peregrinus anatum,Vertebrates,Birds,T4,,,Threatened/Menacée,"US: AK, AZ, CA, CO, GA, ID, MD, NC, ND, NH, NM, OR, SC, TX, WA, WI, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.105102,,Falco_peregrinus_anatum,Falco peregrinus anatum,,33,
+American Pipit,Anthus rubescens,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104166,ABPBM02050,Anthus_rubescens,Anthus rubescens,,109,S4N
+American Redstart,Setophaga ruticilla,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101347,ABPBX06010,Setophaga_ruticilla,Setophaga ruticilla,,109,S5B
+American Robin,Turdus migratorius,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102179,ABPBJ20170,Turdus_migratorius,Turdus migratorius,,109,"S5B,S5N"
+American Tree Sparrow,Spizelloides arborea,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105457,,Spizelloides_arborea,Spizelloides arborea,,97,
+American White Pelican,Pelecanus erythrorhynchos,Vertebrates,Birds,G4,,Not at Risk,,"US: AL, AR, AZ, CA, CO, FL, GA, IA, ID, IL, IN, KS, KY, LA, MN, MO, MS, MT, NC, ND, NE, NJ, NM, NN, NV, NY, OK, OR, SD, TN, TX, UT, WA, WI, WY
+CA: AB, BC, MB, NT, NU, ON, SK",ELEMENT_GLOBAL.2.102798,,Pelecanus_erythrorhynchos,Pelecanus erythrorhynchos,,77,
+American Wigeon,Mareca americana,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104824,ABNJB10180,Mareca_americana,Mareca americana,,113,S5N
+American Woodcock,Scolopax minor,Vertebrates,Birds,G5,,,,"US: AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: MB, NB, NF, NS, ON, PE, QC",ELEMENT_GLOBAL.2.105226,ABNNF19020,Scolopax_minor,Scolopax minor,,85,"S4B,S4N"
+Anhinga,Anhinga anhinga,Vertebrates,Birds,G5,,,,"US: AL, AR, FL, GA, KY, LA, MO, MS, NC, OK, SC, TN, TX, VA",ELEMENT_GLOBAL.2.100210,ABNFE01010,Anhinga_anhinga,Anhinga anhinga,,37,S3B
+Arctic Tern,Sterna paradisaea,Vertebrates,Birds,G5,,,,"US: AK, CA, DE, FL, ID, MA, ME, NC, NH, NJ, NY, OR, VA, WA
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101556,,Sterna_paradisaea,Sterna paradisaea,,33,
+Atlantic Puffin,Fratercula arctica,Vertebrates,Birds,G5,,,,"US: MA, MD, ME, NC, NJ, NY
+CA: LB, NB, NF, NS, NU, QC",ELEMENT_GLOBAL.2.100307,,Fratercula_arctica,Fratercula arctica,,17,
+Audubon's Shearwater,Puffinus lherminieri,Vertebrates,Birds,G4,,,,"US: DE, FL, GA, MD, NC, NJ, TX, VA",ELEMENT_GLOBAL.2.777843,ABNDB07130,Puffinus_lherminieri,Puffinus lherminieri,,21,S4N
+Bachman's Sparrow,Peucaea aestivalis,Vertebrates,Birds,G3,,,,"US: AL, AR, DC, FL, GA, IL, IN, KY, LA, MD, MO, MS, NC, OH, OK, PA, SC, TN, TX, VA, WV",ELEMENT_GLOBAL.2.105170,ABPBX91050,Peucaea_aestivalis,Peucaea aestivalis,,53,"S3B,S2N"
+Bachman's Warbler,Vermivora bachmanii,Vertebrates,Birds,GH,Listed endangered,,,"US: AL, AR, DC, FL, GA, IL, KY, LA, MO, MS, NC, OK, SC, TN, TX, VA",ELEMENT_GLOBAL.2.106306,ABPBX01010,Vermivora_bachmanii,Vermivora bachmanii,,45,SXB
+Baird's Sandpiper,Calidris bairdii,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.106542,,Calidris_bairdii,Calidris bairdii,,101,
+Bald Eagle,Haliaeetus leucocephalus,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104470,ABNKC10010,Haliaeetus_leucocephalus,Haliaeetus leucocephalus,,109,"S3B,S3N"
+Baltimore Oriole,Icterus galbula,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.100447,ABPBXB9190,Icterus_galbula,Icterus galbula,,93,"S3B,S3N"
+Band-rumped Storm-Petrel,Hydrobates castro,Vertebrates,Birds,G3,,,,"US: AL, FL, GA, HI, NC, SC",ELEMENT_GLOBAL.2.1130524,,Hydrobates_castro,Hydrobates castro,,21,
+Bank Swallow,Riparia riparia,Vertebrates,Birds,G5,,Threatened,Threatened/Menacée,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101769,ABPAU08010,Riparia_riparia,Riparia riparia,,109,S1B
+Barn Owl,Tyto alba,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, MT, NC, NE, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WV, WY
+CA: BC, ON, QC",ELEMENT_GLOBAL.2.100734,ABNSA01010,Tyto_alba,Tyto alba,,97,"S2B,S3N"
+Barn Swallow,Hirundo rustica,Vertebrates,Birds,G5,,Threatened,Threatened/Menacée,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104225,ABPAU09030,Hirundo_rustica,Hirundo rustica,,109,S5B
+Barred Owl,Strix varia,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV
+CA: AB, BC, LB, MB, NB, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103621,ABNSB12050,Strix_varia,Strix varia,,97,S5
+Bay-breasted Warbler,Setophaga castanea,Vertebrates,Birds,G5,,,,"US: AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105277,,Setophaga_castanea,Setophaga castanea,,85,
+Belted Kingfisher,Megaceryle alcyon,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105467,ABNXD01020,Megaceryle_alcyon,Megaceryle alcyon,,109,"S5B,S5N"
+Bewick's Wren,Thryomanes bewickii,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, DC, GA, IA, ID, IL, IN, KS, KY, LA, MD, MI, MN, MO, MS, MT, NC, NE, NM, NN, NV, OH, OK, OR, PA, SC, TN, TX, UT, VA, WA, WI, WV, WY
+CA: BC, ON",ELEMENT_GLOBAL.2.100618,ABPBG07010,Thryomanes_bewickii,Thryomanes bewickii,,85,SXB
+Bicknell's Thrush,Catharus bicknelli,Vertebrates,Birds,G4,,Threatened,Threatened/Menacée,"US: CT, DE, GA, MA, MD, ME, NC, NH, NJ, NY, PA, RI, SC, VA, VT
+CA: NB, NS, ON, PE, QC",ELEMENT_GLOBAL.2.106330,,Catharus_bicknelli,Catharus bicknelli,,29,
+Black Rail,Laterallus jamaicensis,Vertebrates,Birds,G3,,,,"US: AL, AR, AZ, CA, CT, DC, DE, FL, GA, IL, IN, KS, LA, MD, MO, MS, NC, NE, NJ, NV, NY, OK, SC, TN, TX, VA",ELEMENT_GLOBAL.2.105641,ABNME03040,Laterallus_jamaicensis,Laterallus jamaicensis,,69,S1
+Black Scoter,Melanitta americana,Vertebrates,Birds,G5,,,,"US: AK, AL, CA, CO, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, NC, ND, NE, NH, NJ, NY, OH, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV
+CA: BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK",ELEMENT_GLOBAL.2.866837,ABNJB17040,Melanitta_americana,Melanitta americana,,85,S4N
+Black Skimmer,Rynchops niger,Vertebrates,Birds,G5,,,,"US: AL, CA, CT, DE, FL, GA, LA, MA, MD, MS, NC, NJ, NY, RI, SC, TX, VA",ELEMENT_GLOBAL.2.105078,ABNNM14010,Rynchops_niger,Rynchops niger,,45,"S2B,S3N"
+Black Tern,Chlidonias niger,Vertebrates,Birds,G4,,Not at Risk,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.105682,,Chlidonias_niger,Chlidonias niger,,105,
+Black Vulture,Coragyps atratus,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, MO, MS, NC, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WV",ELEMENT_GLOBAL.2.104530,ABNKA01010,Coragyps_atratus,Coragyps atratus,,65,S5
+Black-and-white Warbler,Mniotilta varia,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.106290,ABPBX05010,Mniotilta_varia,Mniotilta varia,,105,"S5B,S1N"
+Black-bellied Plover,Pluvialis squatarola,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102793,ABNNB02010,Pluvialis_squatarola,Pluvialis squatarola,,113,S5N
+Black-billed Cuckoo,Coccyzus erythropthalmus,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY
+CA: AB, MB, NB, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.103435,ABNRB02010,Coccyzus_erythropthalmus,Coccyzus erythropthalmus,,93,S2B
+Blackburnian Warbler,Setophaga fusca,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, LB, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.104385,ABPBX03120,Setophaga_fusca,Setophaga fusca,,85,S4B
+Black-capped Chickadee,Poecile atricapillus practica,Vertebrates,Birds,T3,,,,US: NC,ELEMENT_GLOBAL.2.103964,,Poecile_atricapillus_practica,Poecile atricapillus practica,,5,
+Black-capped Chickadee,Poecile atricapillus,Vertebrates,Birds,G5,,,,"US: AK, AZ, CA, CO, CT, DC, IA, ID, IL, IN, KS, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OR, PA, RI, SD, TN, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105569,ABPAW01010,Poecile_atricapillus,Poecile atricapillus,,77,S3
+Black-capped Petrel,Pterodroma hasitata,Vertebrates,Birds,G1,Proposed threatened,,,"US: FL, GA, NC, SC",ELEMENT_GLOBAL.2.102546,ABNDB03010,Pterodroma_hasitata,Pterodroma hasitata,,13,S1N
+Black-chinned Hummingbird,Archilochus alexandri,Vertebrates,Birds,G5,,,,"US: AL, AZ, CA, CO, ID, LA, MS, MT, NC, NM, NN, NV, OK, OR, TX, UT, WA, WY
+CA: BC",ELEMENT_GLOBAL.2.104387,,Archilochus_alexandri,Archilochus alexandri,,37,
+Black-crowned Night-Heron,Nycticorax nycticorax,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, ON, QC, SK",ELEMENT_GLOBAL.2.104974,ABNGA11010,Nycticorax_nycticorax,Nycticorax nycticorax,,109,"S3B,S3N"
+Black-headed Gull,Chroicocephalus ridibundus,Vertebrates,Birds,G5,,,,"US: AK, CT, MA, MD, ME, MI, NC, NH, NJ, NY, RI, VA, VT, WA
+CA: LB, NB, NF, NS, ON, QC",ELEMENT_GLOBAL.2.103889,,Chroicocephalus_ridibundus,Chroicocephalus ridibundus,,29,
+Black-legged Kittiwake,Rissa tridactyla,Vertebrates,Birds,G5,,,,"US: AK, AL, CA, CO, DE, FL, GA, IL, MA, MD, ME, MI, MO, NC, NH, NJ, NY, OH, OR, PA, RI, SC, SD, TX, VA, VT, WA
+CA: BC, LB, NB, NF, NS, NT, NU, ON, PE, QC",ELEMENT_GLOBAL.2.104258,ABNNM04010,Rissa_tridactyla,Rissa tridactyla,,57,S1N
+Black-necked Stilt,Himantopus mexicanus,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, DE, FL, GA, HI, ID, IL, KS, LA, MD, MO, MS, MT, NC, NE, NM, NN, NV, OR, SD, TX, UT, VA, WA, WY
+CA: AB, BC",ELEMENT_GLOBAL.2.105198,ABNND01010,Himantopus_mexicanus,Himantopus mexicanus,,73,S1B
+Blackpoll Warbler,Setophaga striata,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.103335,,Setophaga_striata,Setophaga striata,,105,
+Black-throated Blue Warbler,Setophaga caerulescens,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY
+CA: NB, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.103528,ABPBX03050,Setophaga_caerulescens,Setophaga caerulescens,,93,S4B
+Black-throated Green Warbler,Setophaga virens,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.100065,ABPBX03100,Setophaga_virens,Setophaga virens,,85,S4B
+Blue Grosbeak,Passerina caerulea,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, MN, MO, MS, NC, ND, NE, NJ, NM, NN, NV, NY, OH, OK, PA, SC, SD, TN, TX, UT, VA, WV, WY
+CA: ON",ELEMENT_GLOBAL.2.103868,ABPBX64010,Passerina_caerulea,Passerina caerulea,,89,S5B
+Blue Jay,Cyanocitta cristata,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.101039,ABPAV02020,Cyanocitta_cristata,Cyanocitta cristata,,97,"S5B,S5N"
+Blue-gray Gnatcatcher,Polioptila caerulea,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY
+CA: ON, QC",ELEMENT_GLOBAL.2.105237,ABPBJ08010,Polioptila_caerulea,Polioptila caerulea,,105,"S5B,S2N"
+Blue-headed Vireo,Vireo solitarius,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NH, NJ, NN, NY, OH, OK, OR, PA, RI, SC, TN, TX, VA, VT, WI, WV
+CA: AB, BC, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104986,ABPBW01160,Vireo_solitarius,Vireo solitarius,,93,"S5B,S3N"
+Blue-winged Teal,Spatula discors,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.106246,ABNJB10130,Spatula_discors,Spatula discors,,109,"SHB,S2N"
+Blue-winged Warbler,Vermivora cyanoptera,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: ON, QC",ELEMENT_GLOBAL.2.105701,ABPBX01020,Vermivora_cyanoptera,Vermivora cyanoptera,,89,S2B
+Boat-tailed Grackle,Quiscalus major,Vertebrates,Birds,G5,,,,"US: AL, DE, FL, GA, LA, MD, MS, NC, NJ, NY, SC, TX, VA",ELEMENT_GLOBAL.2.103534,ABPBXB6060,Quiscalus_major,Quiscalus major,,33,S5
+Bobolink,Dolichonyx oryzivorus,Vertebrates,Birds,G5,,Threatened,Threatened/Menacée,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.102736,ABPBXA9010,Dolichonyx_oryzivorus,Dolichonyx oryzivorus,,101,S1B
+Bonaparte's Gull,Chroicocephalus philadelphia,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.106311,ABNNM03050,Chroicocephalus_philadelphia,Chroicocephalus philadelphia,,109,S5N
+Brant,Branta bernicla,Vertebrates,Birds,G5,,,,"US: AK, CA, CT, DE, ID, MA, MD, ME, NC, NH, NJ, NN, NY, OH, OR, PA, RI, SD, TX, VA, VT, WA
+CA: BC, MB, NB, NS, NT, NU, ON, PE, QC, YT",ELEMENT_GLOBAL.2.103759,ABNJB05010,Branta_bernicla,Branta bernicla,,37,S2N
+Brewer's Blackbird,Euphagus cyanocephalus,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MI, MN, MO, MS, MT, NC, ND, NE, NM, NN, NV, OH, OK, OR, SC, SD, TN, TX, UT, WA, WI, WY
+CA: AB, BC, LB, MB, NT, ON, SK",ELEMENT_GLOBAL.2.101341,ABPBXB5020,Euphagus_cyanocephalus,Euphagus cyanocephalus,,85,S1N
+Bridled Tern,Onychoprion anaethetus,Vertebrates,Birds,G5,,,,"US: AL, FL, GA, NC, TX, VA",ELEMENT_GLOBAL.2.103278,ABNNM08140,Onychoprion_anaethetus,Onychoprion anaethetus,,17,S3N
+Broad-winged Hawk,Buteo platypterus,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV
+CA: AB, BC, MB, NB, NS, NT, ON, QC, SK, YT",ELEMENT_GLOBAL.2.100789,ABNKC19050,Buteo_platypterus,Buteo platypterus,,105,S4B
+Brown Creeper,Certhia americana,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102429,ABPBA01010,Certhia_americana,Certhia americana,,109,"S3B,S5N"
+Brown Noddy,Anous stolidus,Vertebrates,Birds,G5,,,,"US: FL, HI, NC",ELEMENT_GLOBAL.2.103269,,Anous_stolidus,Anous stolidus,,13,
+Brown Pelican,Pelecanus occidentalis,Vertebrates,Birds,G4,,,,"US: AL, AZ, CA, DE, FL, GA, IL, LA, MD, MS, NC, NJ, NV, OR, SC, TX, VA, WA
+CA: BC",ELEMENT_GLOBAL.2.817986,ABNFC01020,Pelecanus_occidentalis,Pelecanus occidentalis,,45,"S3B,S4N"
+Brown Thrasher,Toxostoma rufum,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY
+CA: AB, MB, NB, NS, ON, QC, SK",ELEMENT_GLOBAL.2.103922,ABPBK06010,Toxostoma_rufum,Toxostoma rufum,,97,"S5B,S5N"
+Brown-headed Cowbird,Molothrus ater,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102638,ABPBXB7030,Molothrus_ater,Molothrus ater,,109,"S5B,S5N"
+Brown-headed Nuthatch,Sitta pusilla,Vertebrates,Birds,G4,,,,"US: AL, AR, DE, FL, GA, LA, MD, MO, MS, NC, OK, SC, TN, TX, VA",ELEMENT_GLOBAL.2.104638,ABPAZ01040,Sitta_pusilla,Sitta pusilla,,41,S5
+Budgerigar,Melopsittacus undulatus,Vertebrates,Birds,G5,,,,"US: FL, NC",ELEMENT_GLOBAL.2.104031,,Melopsittacus_undulatus,Melopsittacus undulatus,,9,
+Buff-breasted Sandpiper,Calidris subruficollis,Vertebrates,Birds,G4,,Special Concern,Special Concern/Préoccupante,"US: AK, AL, AR, CA, CO, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, WA, WI, WY
+CA: AB, BC, LB, MB, NF, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.103684,,Calidris_subruficollis,Calidris subruficollis,,93,
+Bufflehead,Bucephala albeola,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104714,ABNJB18030,Bucephala_albeola,Bucephala albeola,,109,S5N
+California Gull,Larus californicus,Vertebrates,Birds,G5,,,,"US: AK, AZ, CA, CO, ID, MT, NC, ND, NE, NM, NN, NV, OR, SD, TX, UT, WA, WY
+CA: AB, BC, MB, NT, ON, SK",ELEMENT_GLOBAL.2.100812,,Larus_californicus,Larus californicus,,29,
+Canada Goose,Branta canadensis,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.770965,ABNJB05030,Branta_canadensis,Branta canadensis,,113,"S5B,S5N"
+Canada Warbler,Cardellina canadensis,Vertebrates,Birds,G5,,Threatened,Threatened/Menacée,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, MB, NB, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100725,ABPBX16030,Cardellina_canadensis,Cardellina canadensis,,89,S4B
+Canvasback,Aythya valisineria,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NT, ON, SK, YT",ELEMENT_GLOBAL.2.105229,ABNJB11020,Aythya_valisineria,Aythya valisineria,,109,S3N
+Cape May Warbler,Setophaga tigrina,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102913,,Setophaga_tigrina,Setophaga tigrina,,85,
+Carolina Chickadee,Poecile carolinensis,Vertebrates,Birds,G5,,,,"US: AL, AR, DC, DE, FL, GA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NJ, OH, OK, PA, SC, TN, TX, VA, WV",ELEMENT_GLOBAL.2.102434,ABPAW01020,Poecile_carolinensis,Poecile carolinensis,,61,S5
+Carolina Parakeet,Conuropsis carolinensis,Vertebrates,Birds,GX,,,,"US: AL, AR, CO, FL, GA, IA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NE, NJ, NY, OH, OK, PA, SC, SD, TN, TX, VA, WI, WV",ELEMENT_GLOBAL.2.105252,,Conuropsis_carolinensis,Conuropsis carolinensis,,61,
+Carolina Wren,Thryothorus ludovicianus,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: NB, ON, QC",ELEMENT_GLOBAL.2.106550,ABPBG06130,Thryothorus_ludovicianus,Thryothorus ludovicianus,,89,S5
+Caspian Tern,Hydroprogne caspia,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, MT, NC, NE, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104635,ABNNM08020,Hydroprogne_caspia,Hydroprogne caspia,,105,"S1B,S2N"
+Cattle Egret,Bubulcus ibis,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, RI, SC, SD, TN, TX, UT, VA, VT, WA, WV, WY
+CA: BC, MB, ON, SK",ELEMENT_GLOBAL.2.105970,ABNGA07010,Bubulcus_ibis,Bubulcus ibis,,97,S4B
+Cave Swallow,Petrochelidon fulva,Vertebrates,Birds,G5,,,,"US: FL, NC, NM, TX",ELEMENT_GLOBAL.2.104728,,Petrochelidon_fulva,Petrochelidon fulva,,9,
+Cedar Waxwing,Bombycilla cedrorum,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102435,ABPBN01020,Bombycilla_cedrorum,Bombycilla cedrorum,,109,"S4B,S5N"
+Cerulean Warbler,Setophaga cerulea,Vertebrates,Birds,G4,,Endangered,Endangered/En voie de disparition,"US: AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: ON, QC",ELEMENT_GLOBAL.2.101759,ABPBX03240,Setophaga_cerulea,Setophaga cerulea,,81,S2B
+Chestnut-sided Warbler,Setophaga pensylvanica,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, MB, NB, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.104815,ABPBX03020,Setophaga_pensylvanica,Setophaga pensylvanica,,97,S5B
+Chimney Swift,Chaetura pelagica,Vertebrates,Birds,G4,,Threatened,Threatened/Menacée,"US: AL, AR, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY
+CA: MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.106082,ABNUA03010,Chaetura_pelagica,Chaetura pelagica,,97,S4B
+Chipping Sparrow,Spizella passerina,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102758,ABPBX94020,Spizella_passerina,Spizella passerina,,109,"S5B,S5N"
+Chuck-will's-widow,Antrostomus carolinensis,Vertebrates,Birds,G5,,,,"US: AL, AR, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MO, MS, NC, NE, NJ, NY, OH, OK, SC, SD, TN, TX, VA, WV",ELEMENT_GLOBAL.2.102662,ABNTA07010,Antrostomus_carolinensis,Antrostomus carolinensis,,65,S4B
+Clapper Rail,Rallus crepitans,Vertebrates,Birds,G5,,,,"US: AL, CT, DE, FL, GA, LA, MA, MD, ME, MS, NC, NJ, NY, RI, SC, TX, VA",ELEMENT_GLOBAL.2.960538,ABNME05050,Rallus_crepitans,Rallus crepitans,,45,S4
+Clay-colored Sparrow,Spizella pallida,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, FL, IA, IL, KS, MA, MI, MN, MO, MS, MT, NC, ND, NE, NJ, NM, NN, NY, OK, OR, SD, TX, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NT, ON, QC, SK",ELEMENT_GLOBAL.2.100970,,Spizella_pallida,Spizella pallida,,61,
+Cliff Swallow,Petrochelidon pyrrhonota,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101677,ABPAU09010,Petrochelidon_pyrrhonota,Petrochelidon pyrrhonota,,109,S4B
+Common Eider,Somateria mollissima,Vertebrates,Birds,G5,,,,"US: AK, MA, MD, ME, MI, NC, NH, NJ, NY, RI, SC, SD, VA
+CA: LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, YT",ELEMENT_GLOBAL.2.100602,,Somateria_mollissima,Somateria mollissima,,25,
+Common Gallinule,Gallinula galeata,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CT, DC, DE, FL, GA, HI, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NM, NV, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV
+CA: NB, NS, ON, QC",ELEMENT_GLOBAL.2.872346,ABNME13030,Gallinula_galeata,Gallinula galeata,,97,"S3B,S2N"
+Common Goldeneye,Bucephala clangula,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101051,ABNJB18010,Bucephala_clangula,Bucephala clangula,,105,S2N
+Common Grackle,Quiscalus quiscula,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK",ELEMENT_GLOBAL.2.105697,ABPBXB6070,Quiscalus_quiscula,Quiscalus quiscula,,97,"S5B,S5N"
+Common Ground Dove,Columbina passerina,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, DC, FL, GA, LA, MS, NC, NM, SC, TX",ELEMENT_GLOBAL.2.102817,ABNPB06020,Columbina_passerina,Columbina passerina,,41,SXB
+Common Loon,Gavia immer,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, AL, AR, AZ, CA, CO, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100554,ABNBA01030,Gavia_immer,Gavia immer,,105,S5N
+Common Merganser,Mergus merganser,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105663,ABNJB21010,Mergus_merganser,Mergus merganser,,101,"S1B,S1N"
+Common Nighthawk,Chordeiles minor,Vertebrates,Birds,G5,,Special Concern,Threatened/Menacée,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102646,ABNTA02020,Chordeiles_minor,Chordeiles minor,,105,S2B
+Common Raven,Corvus corax,Vertebrates,Birds,G5,,,,"US: AK, AL, AZ, CA, CO, CT, GA, ID, IL, IN, KY, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103734,ABPAV10110,Corvus_corax,Corvus corax,,77,S3
+Common Redpoll,Acanthis flammea,Vertebrates,Birds,G5,,,,"US: AK, AR, CO, DC, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NY, OH, OR, PA, RI, SD, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102366,,Acanthis_flammea,Acanthis flammea,,73,
+Common Tern,Sterna hirundo,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK",ELEMENT_GLOBAL.2.101840,ABNNM08070,Sterna_hirundo,Sterna hirundo,,105,S2B
+Common Yellowthroat,Geothlypis trichas,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101873,ABPBX12010,Geothlypis_trichas,Geothlypis trichas,,109,"S5B,S4N"
+Connecticut Warbler,Oporornis agilis,Vertebrates,Birds,G4,,,,"US: AL, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, MA, MD, MI, MN, NC, ND, NE, NJ, NY, OK, PA, SD, TN, VA, VT, WI, WV
+CA: AB, BC, MB, NT, ON, QC, SK",ELEMENT_GLOBAL.2.101957,,Oporornis_agilis,Oporornis agilis,,65,
+Cooper's Hawk,Accipiter cooperii,Vertebrates,Birds,G5,,Not at Risk,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, ON, QC, SK",ELEMENT_GLOBAL.2.100417,ABNKC12040,Accipiter_cooperii,Accipiter cooperii,,105,"S3B,S4N"
+Cory's Shearwater,Calonectris diomedea,Vertebrates,Birds,G5,,,,"US: AL, DE, FL, GA, MA, MD, NC, NH, NJ, NY, RI, SC, TX, VA
+CA",ELEMENT_GLOBAL.2.795098,ABNDB06020,Calonectris_diomedea,Calonectris diomedea,,29,S4N
+Curlew Sandpiper,Calidris ferruginea,Vertebrates,Birds,G5,,,,"US: AK, CT, DE, MA, ME, NC, NJ, NY",ELEMENT_GLOBAL.2.106365,,Calidris_ferruginea,Calidris ferruginea,,25,
+Dark-eyed Junco,Junco hyemalis,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101635,ABPBXA5020,Junco_hyemalis,Junco hyemalis,,109,"S5B,S5N"
+Dickcissel,Spiza americana,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, MT, NC, ND, NE, NJ, NM, OH, OK, PA, SC, SD, TN, TX, VA, WI, WV, WY
+CA: MB, ON",ELEMENT_GLOBAL.2.106001,ABPBX65010,Spiza_americana,Spiza americana,,89,S2B
+Double-crested Cormorant,Phalacrocorax auritus,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101743,ABNFD01020,Phalacrocorax_auritus,Phalacrocorax auritus,,105,"S1B,S5N"
+Dovekie,Alle alle,Vertebrates,Birds,G5,,,,"US: AK, MA, MD, ME, NC, NH, NJ, NY, RI, VA
+CA: NB, NS, NU, PE, QC",ELEMENT_GLOBAL.2.103393,,Alle_alle,Alle alle,,21,
+Downy Woodpecker,Dryobates pubescens,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105113,ABNYF07030,Dryobates_pubescens,Dryobates pubescens,,109,S5
+Dunlin,Calidris alpina,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101733,ABNNF11170,Calidris_alpina,Calidris alpina,,113,S5N
+Eared Grebe,Podiceps nigricollis,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, FL, IA, ID, IL, KS, KY, LA, MI, MN, MO, MS, MT, NC, ND, NE, NM, NN, NV, NY, OH, OK, OR, SC, SD, TN, TX, UT, WA, WI, WY
+CA: AB, BC, MB, ON, SK, YT",ELEMENT_GLOBAL.2.100013,,Podiceps_nigricollis,Podiceps nigricollis,,73,
+Eastern Bluebird,Sialia sialis,Vertebrates,Birds,G5,,Not at Risk,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY
+CA: MB, NB, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.101930,ABPBJ15010,Sialia_sialis,Sialia sialis,,97,"S5B,S5N"
+Eastern Brown Pelican,Pelecanus occidentalis carolinensis,Vertebrates,Birds,TU,,,,"US: GA, LA, MD, MS, NC, SC, VA",ELEMENT_GLOBAL.2.101694,,Pelecanus_occidentalis_carolinensis,Pelecanus occidentalis carolinensis,,21,
+Eastern Henslow's Sparrow,Centronyx henslowii susurrans,Vertebrates,Birds,T4,,,,US: NC,ELEMENT_GLOBAL.2.797067,,Centronyx_henslowii_susurrans,Centronyx henslowii susurrans,,5,
+Eastern Kingbird,Tyrannus tyrannus,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102908,ABPAE52060,Tyrannus_tyrannus,Tyrannus tyrannus,,105,S5B
+Eastern Meadowlark,Sturnella magna,Vertebrates,Birds,G5,,Threatened,Threatened/Menacée,"US: AL, AR, AZ, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: NB, NS, ON, QC",ELEMENT_GLOBAL.2.104171,ABPBXB2020,Sturnella_magna,Sturnella magna,,89,"S4B,S4N"
+Eastern Phoebe,Sayornis phoebe,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, MB, NB, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102820,ABPAE35020,Sayornis_phoebe,Sayornis phoebe,,97,"S5B,S5N"
+Eastern Screech-Owl,Megascops asio,Vertebrates,Birds,G5,,Not at Risk,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY
+CA: MB, ON, QC, SK",ELEMENT_GLOBAL.2.102821,ABNSB01030,Megascops_asio,Megascops asio,,93,S4
+Eastern Towhee,Pipilo erythrophthalmus,Vertebrates,Birds,G5,,,,"US: AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: MB, ON, QC, SK",ELEMENT_GLOBAL.2.105602,ABPBX74030,Pipilo_erythrophthalmus,Pipilo erythrophthalmus,,85,"S5B,S5N"
+Eastern Whip-poor-will,Antrostomus vociferus,Vertebrates,Birds,G5,,Threatened,Threatened/Menacée,"US: AL, AR, CA, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: MB, NB, ON, QC, SK",ELEMENT_GLOBAL.2.871696,ABNTA07070,Antrostomus_vociferus,Antrostomus vociferus,,89,S3B
+Eastern Wood-Pewee,Contopus virens,Vertebrates,Birds,G5,,Special Concern,Special Concern/Préoccupante,"US: AL, AR, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: MB, NB, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.103459,ABPAE32060,Contopus_virens,Contopus virens,,81,S5B
+Eurasian Collared-Dove,Streptopelia decaocto,Vertebrates,Birds,G5,,,,"US: AL, AZ, FL, GA, ID, KY, LA, MN, MS, MT, NC, NM, NN, NV, SC, UT, WA, WY
+CA: AB, BC, MB, ON, SK, YT",ELEMENT_GLOBAL.2.101660,,Streptopelia_decaocto,Streptopelia decaocto,,45,
+Eurasian Wigeon,Mareca penelope,Vertebrates,Birds,G5,,,,"US: AK, AZ, CA, CT, DE, FL, ID, MA, MD, MT, NC, NJ, NN, NY, RI, SC, VA, WA, WI, WY
+CA: BC, NS, ON, QC, YT",ELEMENT_GLOBAL.2.100158,,Mareca_penelope,Mareca penelope,,45,
+European Starling,Sturnus vulgaris,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK",ELEMENT_GLOBAL.2.103906,,Sturnus_vulgaris,Sturnus vulgaris,,109,
+Evening Grosbeak,Coccothraustes vespertinus,Vertebrates,Birds,G5,,Special Concern,Special Concern/Préoccupante,"US: AL, AR, AZ, CA, CO, CT, DC, DE, GA, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102678,,Coccothraustes_vespertinus,Coccothraustes vespertinus,,97,
+Fea's Petrel,Pterodroma feae,Vertebrates,Birds,G1,,,,US: NC,ELEMENT_GLOBAL.2.102745,,Pterodroma_feae,Pterodroma feae,,5,
+Field Sparrow,Spizella pusilla,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY
+CA: ON, QC, SK",ELEMENT_GLOBAL.2.102535,ABPBX94050,Spizella_pusilla,Spizella pusilla,,93,"S4B,S5N"
+Fish Crow,Corvus ossifragus,Vertebrates,Birds,G5,,,,"US: AL, AR, CT, DC, DE, FL, GA, IL, KY, LA, MA, MD, ME, MO, MS, NC, NH, NJ, NY, OK, PA, RI, SC, TN, TX, VA, VT, WV",ELEMENT_GLOBAL.2.101678,ABPAV10080,Corvus_ossifragus,Corvus ossifragus,,65,"S5B,S5N"
+Forster's Tern,Sterna forsteri,Vertebrates,Birds,G5,,Data Deficient,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, WA, WI, WY
+CA: AB, BC, MB, ON, SK",ELEMENT_GLOBAL.2.101506,ABNNM08090,Sterna_forsteri,Sterna forsteri,,101,"S3B,S5N"
+Fox Sparrow,Passerella iliaca,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.102367,ABPBXA2010,Passerella_iliaca,Passerella iliaca,,109,S5N
+Franklin's Gull,Leucophaeus pipixcan,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, FL, IA, ID, IL, IN, KS, KY, LA, MI, MN, MO, MS, MT, NC, ND, NE, NM, NN, NV, OH, OK, OR, PA, SD, TX, UT, WA, WI, WY
+CA: AB, BC, LB, MB, NF, NT, ON, SK",ELEMENT_GLOBAL.2.101670,,Leucophaeus_pipixcan,Leucophaeus pipixcan,,77,
+Fulvous Whistling-Duck,Dendrocygna bicolor,Vertebrates,Birds,G5,,,,"US: AR, CA, FL, GA, HI, LA, NC, SC, TX",ELEMENT_GLOBAL.2.103297,,Dendrocygna_bicolor,Dendrocygna bicolor,,29,
+Gadwall,Mareca strepera,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101166,ABNJB10160,Mareca_strepera,Mareca strepera,,105,"S2B,S4N"
+Glaucous Gull,Larus hyperboreus,Vertebrates,Birds,G5,,,,"US: AK, AL, CO, CT, DC, DE, FL, IA, IL, IN, KY, MA, MD, ME, MI, MN, MO, NC, ND, NE, NH, NJ, NY, OH, OR, RI, SC, SD, TX, UT, VA, VT, WA, WI
+CA: BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101458,,Larus_hyperboreus,Larus hyperboreus,,73,
+Glossy Ibis,Plegadis falcinellus,Vertebrates,Birds,G5,,,,"US: AL, AR, CT, DE, FL, GA, ID, LA, MA, MD, ME, MO, MS, NC, NH, NJ, NY, RI, SC, TN, TX, VA
+CA: ON",ELEMENT_GLOBAL.2.101242,ABNGE02010,Plegadis_falcinellus,Plegadis falcinellus,,57,S1B
+Golden-crowned Kinglet,Regulus satrapa,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100997,ABPBJ05010,Regulus_satrapa,Regulus satrapa,,109,"S3B,S5N"
+Golden-winged Warbler,Vermivora chrysoptera,Vertebrates,Birds,G4,,Threatened,Threatened/Menacée,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: MB, ON, QC",ELEMENT_GLOBAL.2.102068,ABPBX01030,Vermivora_chrysoptera,Vermivora chrysoptera,,85,S2B
+Grasshopper Sparrow,Ammodramus savannarum,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, ON, QC, SK",ELEMENT_GLOBAL.2.100347,ABPBXA0020,Ammodramus_savannarum,Ammodramus savannarum,,105,"S3B,S1N"
+Gray Catbird,Dumetella carolinensis,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.104829,ABPBK01010,Dumetella_carolinensis,Dumetella carolinensis,,101,"S5B,S5N"
+Gray Kingbird,Tyrannus dominicensis,Vertebrates,Birds,G5,,,,"US: AL, FL, GA, MS, NC, SC",ELEMENT_GLOBAL.2.106125,,Tyrannus_dominicensis,Tyrannus dominicensis,,21,
+Gray-cheeked Thrush,Catharus minimus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100959,,Catharus_minimus,Catharus minimus,,93,
+Great Black-backed Gull,Larus marinus,Vertebrates,Birds,G5,,,,"US: AL, CT, DC, DE, FL, GA, IL, IN, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, SC, VA, VT
+CA: LB, NB, NF, NS, NU, ON, PE, QC, YT",ELEMENT_GLOBAL.2.104344,ABNNM03210,Larus_marinus,Larus marinus,,57,"S3B,S5N"
+Great Blue Heron,Ardea herodias,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.100203,ABNGA04010,Ardea_herodias,Ardea herodias,,109,"S5B,S5N"
+Great Cormorant,Phalacrocorax carbo,Vertebrates,Birds,G5,,,,"US: CT, DE, MA, MD, ME, NC, NH, NJ, NY, RI, SC, VA
+CA: LB, NB, NF, NS, PE, QC",ELEMENT_GLOBAL.2.102054,ABNFD01010,Phalacrocorax_carbo,Phalacrocorax carbo,,25,S1N
+Great Crested Flycatcher,Myiarchus crinitus,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, MB, NB, NS, ON, QC, SK",ELEMENT_GLOBAL.2.105609,ABPAE43070,Myiarchus_crinitus,Myiarchus crinitus,,89,S5B
+Great Egret,Ardea alba,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV
+CA: MB, ON, QC, SK",ELEMENT_GLOBAL.2.103493,ABNGA04040,Ardea_alba,Ardea alba,,101,"S4B,S4N"
+Great Horned Owl,Bubo virginianus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.770876,ABNSB05010,Bubo_virginianus,Bubo virginianus,,109,S5
+Great Shearwater,Ardenna gravis,Vertebrates,Birds,G5,,,,"US: DE, FL, GA, MA, MD, ME, NC, NH, NJ, NY, RI, VA
+CA: NB, NS, PE, QC",ELEMENT_GLOBAL.2.100813,ABNDB07030,Ardenna_gravis,Ardenna gravis,,29,S3N
+Great Skua,Stercorarius skua,Vertebrates,Birds,G4,,,,"US: MA, MD, ME, NC, NJ, NY, RI, VA
+CA: NF",ELEMENT_GLOBAL.2.962181,,Stercorarius_skua,Stercorarius skua,,17,
+Greater Scaup,Aythya marila,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102413,ABNJB11060,Aythya_marila,Aythya marila,,109,S2N
+Greater White-fronted Goose,Anser albifrons,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, GA, IA, ID, IL, IN, KS, KY, LA, MD, MN, MO, MS, MT, NC, ND, NE, NJ, NM, NN, NV, OH, OK, OR, SC, SD, TN, TX, UT, VA, WA, WI, WV, WY
+CA: AB, BC, MB, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.104263,,Anser_albifrons,Anser albifrons,,81,
+Greater Yellowlegs,Tringa melanoleuca,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105760,ABNNF01020,Tringa_melanoleuca,Tringa melanoleuca,,109,S4N
+Green Heron,Butorides virescens,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: BC, MB, NB, ON, QC",ELEMENT_GLOBAL.2.102189,ABNGA08010,Butorides_virescens,Butorides virescens,,97,S5B
+Green-winged Teal,Anas crecca,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104242,ABNJB10010,Anas_crecca,Anas crecca,,109,S5N
+Gull-billed Tern,Gelochelidon nilotica,Vertebrates,Birds,G5,,,,"US: AL, CA, DE, FL, GA, LA, MD, MS, NC, NJ, NY, SC, TX, VA",ELEMENT_GLOBAL.2.102273,ABNNM08010,Gelochelidon_nilotica,Gelochelidon nilotica,,37,S1B
+Hairy Woodpecker,Dryobates villosus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104568,ABNYF07040,Dryobates_villosus,Dryobates villosus,,109,S4
+Harlequin Duck,Histrionicus histrionicus,Vertebrates,Birds,G4,,,,"US: AK, CA, CO, ID, IL, IN, MA, MD, ME, MN, MT, NC, NJ, NY, OR, RI, VA, WA, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, QC, YT",ELEMENT_GLOBAL.2.104856,,Histrionicus_histrionicus,Histrionicus histrionicus,,49,
+Henslow's Sparrow,Centronyx henslowii,Vertebrates,Birds,G4,,Endangered,Endangered/En voie de disparition,"US: AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: ON, QC",ELEMENT_GLOBAL.2.100620,ABPBXA0030,Centronyx_henslowii,Centronyx henslowii,,81,"S1B,S1N"
+Hermit Thrush,Catharus guttatus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100340,ABPBJ18110,Catharus_guttatus,Catharus guttatus,,109,"S3B,S5N"
+Herring Gull,Larus argentatus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105038,ABNNM03120,Larus_argentatus,Larus argentatus,,109,"S4B,S5N"
+Hooded Merganser,Lophodytes cucullatus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104711,ABNJB20010,Lophodytes_cucullatus,Lophodytes cucullatus,,109,"S1B,S4N"
+Hooded Warbler,Setophaga citrina,Vertebrates,Birds,G5,,Not at Risk,Threatened/Menacée,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NM, NY, OH, OK, PA, RI, SC, TN, TX, VA, WI, WV
+CA: ON",ELEMENT_GLOBAL.2.105404,ABPBX16010,Setophaga_citrina,Setophaga citrina,,89,S5B
+Horned Grebe,Podiceps auritus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101899,ABNCA03010,Podiceps_auritus,Podiceps auritus,,109,S4N
+Horned Lark,Eremophila alpestris,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105501,ABPAT02010,Eremophila_alpestris,Eremophila alpestris,,105,"S4B,S4N"
+House Finch,Haemorhous mexicanus,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.100731,,Haemorhous_mexicanus,Haemorhous mexicanus,,105,
+House Sparrow,Passer domesticus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.106216,,Passer_domesticus,Passer domesticus,,109,
+House Wren,Troglodytes aedon,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, ON, QC, SK",ELEMENT_GLOBAL.2.902043,ABPBG09010,Troglodytes_aedon,Troglodytes aedon,,105,"S5B,S5N"
+Hudsonian Godwit,Limosa haemastica,Vertebrates,Birds,G4,,Threatened,,"US: AK, AL, AR, CO, CT, DE, IA, IL, KS, LA, MA, MD, ME, MI, MN, MO, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SD, TX, VA, WA, WI, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103336,,Limosa_haemastica,Limosa haemastica,,69,
+Iceland Gull,Larus glaucoides,Vertebrates,Birds,G5,,,,"US: CT, DC, IL, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, RI, VA, VT
+CA: BC, LB, NB, NF, NS, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.1009435,,Larus_glaucoides,Larus glaucoides,,37,
+Indigo Bunting,Passerina cyanea,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: MB, NB, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.103315,ABPBX64030,Passerina_cyanea,Passerina cyanea,,105,S5B
+Ivory-billed Woodpecker,Campephilus principalis,Vertebrates,Birds,G1,Listed endangered,,,"US: AL, AR, FL, GA, IL, KY, LA, MD, MO, MS, NC, OH, OK, SC, TN, TX",ELEMENT_GLOBAL.2.102822,ABNYF13040,Campephilus_principalis,Campephilus principalis,,45,SX
+Kentucky Warbler,Geothlypis formosa,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NY, OH, OK, PA, SC, TN, TX, VA, WI, WV",ELEMENT_GLOBAL.2.103148,ABPBX11010,Geothlypis_formosa,Geothlypis formosa,,89,S3B
+Killdeer,Charadrius vociferus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101693,ABNNB03090,Charadrius_vociferus,Charadrius vociferus,,109,"S5B,S5N"
+King Eider,Somateria spectabilis,Vertebrates,Birds,G5,,,,"US: AK, CT, MA, MD, ME, MI, NC, NJ, NY, VA
+CA: LB, NB, NF, NT, NU, ON, QC, YT",ELEMENT_GLOBAL.2.100137,,Somateria_spectabilis,Somateria spectabilis,,29,
+King Rail,Rallus elegans,Vertebrates,Birds,G4,,Endangered,Endangered/En voie de disparition,"US: AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, WI, WV
+CA: ON",ELEMENT_GLOBAL.2.962122,ABNME05070,Rallus_elegans,Rallus elegans,,85,"S3B,S3N"
+Lapland Longspur,Calcarius lapponicus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SD, TN, TX, UT, VA, VT, WA, WI, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100665,ABPBXA6020,Calcarius_lapponicus,Calcarius lapponicus,,93,S1N
+Lark Sparrow,Chondestes grammacus,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, MN, MO, MS, MT, NC, ND, NE, NJ, NM, NN, NV, NY, OH, OK, OR, SC, SD, TN, TX, UT, VA, WA, WI, WV, WY
+CA: AB, BC, MB, ON, SK",ELEMENT_GLOBAL.2.102370,ABPBX96010,Chondestes_grammacus,Chondestes grammacus,,85,S1B
+Laughing Gull,Leucophaeus atricilla,Vertebrates,Birds,G5,,,,"US: AL, CA, CT, DC, DE, FL, GA, IL, IN, KY, LA, MA, MD, ME, MI, MS, NC, NE, NH, NJ, NY, OK, PA, RI, SC, TN, TX, VA
+CA: NB, NS, ON",ELEMENT_GLOBAL.2.101747,ABNNM03010,Leucophaeus_atricilla,Leucophaeus atricilla,,69,S4B
+Leach's Storm-Petrel,Hydrobates leucorhoa,Vertebrates,Birds,G5,,,,"US: AK, AL, CA, DE, FL, MA, MD, ME, NC, NJ, NY, OR, SC, VA, WA
+CA: BC, LB, NB, NF, NS, PE, QC",ELEMENT_GLOBAL.2.971608,,Hydrobates_leucorhoa,Hydrobates leucorhoa,,37,
+Least Bittern,Ixobrychus exilis,Vertebrates,Birds,G4,,Threatened,Threatened/Menacée,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV
+CA: MB, NB, ON, QC",ELEMENT_GLOBAL.2.106202,ABNGA02010,Ixobrychus_exilis,Ixobrychus exilis,,97,S2B
+Least Flycatcher,Empidonax minimus,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105566,ABPAE33070,Empidonax_minimus,Empidonax minimus,,97,S3B
+Least Sandpiper,Calidris minutilla,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102217,ABNNF11100,Calidris_minutilla,Calidris minutilla,,113,S3N
+Least Tern,Sternula antillarum,Vertebrates,Birds,G4,,,,"US: AL, AR, AZ, CA, CO, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, RI, SC, SD, TN, TX, VA",ELEMENT_GLOBAL.2.101508,ABNNM08100,Sternula_antillarum,Sternula antillarum,,89,S3B
+LeConte's Sparrow,Ammospiza leconteii,Vertebrates,Birds,G5,,,,"US: AL, AR, FL, GA, IA, IL, IN, KS, KY, LA, MI, MN, MO, MS, MT, NC, ND, NE, NM, NN, OH, OK, SC, SD, TN, TX, WI
+CA: AB, BC, MB, NT, ON, QC, SK, YT",ELEMENT_GLOBAL.2.100333,,Ammospiza_leconteii,Ammospiza leconteii,,65,
+Lesser Black-backed Gull,Larus fuscus,Vertebrates,Birds,G5,,,,"US: AL, CT, FL, GA, KY, MA, MD, MN, NC, NJ, NY, PA, RI, SC, TX, VA
+CA: LB, NF, NS, ON, QC",ELEMENT_GLOBAL.2.102581,ABNNM03150,Larus_fuscus,Larus fuscus,,37,S3N
+Lesser Scaup,Aythya affinis,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104109,ABNJB11070,Aythya_affinis,Aythya affinis,,113,S5N
+Lesser Yellowlegs,Tringa flavipes,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100017,ABNNF01030,Tringa_flavipes,Tringa flavipes,,109,S3N
+Lincoln's Sparrow,Melospiza lincolnii,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105323,ABPBXA3020,Melospiza_lincolnii,Melospiza lincolnii,,105,S2N
+Little Blue Heron,Egretta caerulea,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, WV",ELEMENT_GLOBAL.2.106018,ABNGA06040,Egretta_caerulea,Egretta caerulea,,97,"S3B,S3N"
+Little Gull,Hydrocoloeus minutus,Vertebrates,Birds,G5,,,,"US: CT, MA, MD, ME, MI, MN, NC, NH, NJ, NY, PA, VA, VT, WA
+CA: MB, NU, ON, QC",ELEMENT_GLOBAL.2.104598,,Hydrocoloeus_minutus,Hydrocoloeus minutus,,29,
+Loggerhead Shrike,Lanius ludovicianus ludovicianus,Vertebrates,Birds,T4,,,,"US: GA, NC, VA",ELEMENT_GLOBAL.2.103016,,Lanius_ludovicianus_ludovicianus,Lanius ludovicianus ludovicianus,,9,
+Loggerhead Shrike,Lanius ludovicianus,Vertebrates,Birds,G4,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, MB, NB, NS, ON, QC, SK",ELEMENT_GLOBAL.2.104527,ABPBR01030,Lanius_ludovicianus,Lanius ludovicianus,,105,"S2B,S3N"
+Long-billed Curlew,Numenius americanus,Vertebrates,Birds,G5,,Special Concern,Special Concern/Préoccupante,"US: AL, AZ, CA, CO, FL, GA, IA, ID, IL, KS, LA, MN, MS, MT, NC, ND, NE, NM, NN, NV, OK, OR, SC, SD, TX, UT, WA, WI, WY
+CA: AB, BC, MB, SK",ELEMENT_GLOBAL.2.100438,,Numenius_americanus,Numenius americanus,,61,
+Long-billed Dowitcher,Limnodromus scolopaceus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WY
+CA: AB, BC, MB, NS, NT, ON, QC, SK, YT",ELEMENT_GLOBAL.2.100840,ABNNF16020,Limnodromus_scolopaceus,Limnodromus scolopaceus,,113,S2N
+Long-eared Owl,Asio otus,Vertebrates,Birds,G5,,,,"US: AR, AZ, CA, CO, CT, DC, DE, GA, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, ON, PE, QC, SK",ELEMENT_GLOBAL.2.101120,,Asio_otus,Asio otus,,89,
+Long-tailed Duck,Clangula hyemalis,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, GA, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103301,ABNJB16010,Clangula_hyemalis,Clangula hyemalis,,97,S3N
+Long-tailed Jaeger,Stercorarius longicaudus,Vertebrates,Birds,G5,,,,"US: AK, CA, DE, FL, MA, MD, ME, MI, NC, NJ, NY, OR, VA, VT, WA
+CA: BC, MB, NS, NT, NU, ON, QC, YT",ELEMENT_GLOBAL.2.100027,,Stercorarius_longicaudus,Stercorarius longicaudus,,37,
+Louisiana Waterthrush,Parkesia motacilla,Vertebrates,Birds,G5,,Threatened,Threatened/Menacée,"US: AL, AR, AZ, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV
+CA: ON, QC",ELEMENT_GLOBAL.2.105622,ABPBX10030,Parkesia_motacilla,Parkesia motacilla,,89,S4B
+Magnificent Frigatebird,Fregata magnificens,Vertebrates,Birds,G5,,,,"US: AL, FL, GA, LA, MS, NC, TX",ELEMENT_GLOBAL.2.101631,,Fregata_magnificens,Fregata magnificens,,25,
+Magnolia Warbler,Setophaga magnolia,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, CO, CT, DC, DE, FL, GA, IA, ID, IL, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104401,ABPBX03030,Setophaga_magnolia,Setophaga magnolia,,93,S2B
+Mallard,Anas platyrhynchos,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105213,ABNJB10200,Anas_platyrhynchos,Anas platyrhynchos,,109,"S5B,S5N"
+Manx Shearwater,Puffinus puffinus,Vertebrates,Birds,G5,,,,"US: GA, MA, MD, ME, NC, NH, NJ, RI, VA
+CA: NB, NF, NS",ELEMENT_GLOBAL.2.100688,ABNDB07090,Puffinus_puffinus,Puffinus puffinus,,21,S1N
+Marbled Godwit,Limosa fedoa,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CT, DE, FL, GA, IA, ID, IL, KS, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TX, UT, VA, WA, WI, WY
+CA: AB, BC, MB, NU, ON, QC, SK",ELEMENT_GLOBAL.2.101687,ABNNF08040,Limosa_fedoa,Limosa fedoa,,93,S2N
+Marsh Wren,Cistothorus palustris,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, ON, QC, SK, YT",ELEMENT_GLOBAL.2.106147,ABPBG10020,Cistothorus_palustris,Cistothorus palustris,,105,"S3B,S4N"
+Masked Booby,Sula dactylatra,Vertebrates,Birds,G5,,,,"US: AL, FL, HI, MS, NC, TX",ELEMENT_GLOBAL.2.105902,,Sula_dactylatra,Sula dactylatra,,21,
+Merlin,Falco columbarius,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105574,ABNKD06030,Falco_columbarius,Falco columbarius,,109,S3N
+Mississippi Kite,Ictinia mississippiensis,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, FL, GA, IL, IN, KS, KY, LA, MO, MS, NC, NE, NJ, NM, NN, OK, SC, TN, TX, VA",ELEMENT_GLOBAL.2.104468,ABNKC09010,Ictinia_mississippiensis,Ictinia mississippiensis,,57,S3B
+Monk Parakeet,Myiopsitta monachus,Vertebrates,Birds,G5,,,,"US: CT, DC, DE, FL, IL, IN, MI, NC, NH, NY, OR, RI, TX, VA
+CA",ELEMENT_GLOBAL.2.106580,,Myiopsitta_monachus,Myiopsitta monachus,,33,
+Mourning Dove,Zenaida macroura,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.104326,ABNPB04040,Zenaida_macroura,Zenaida macroura,,109,"S5B,S5N"
+Mourning Warbler,Geothlypis philadelphia,Vertebrates,Birds,G5,,,,"US: AL, AR, CT, DC, DE, FL, GA, IA, IL, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102326,,Geothlypis_philadelphia,Geothlypis philadelphia,,77,
+Mute Swan,Cygnus olor,Vertebrates,Birds,G5,,,,"US: AR, CT, DE, IA, ID, IL, IN, KY, MA, MD, ME, MI, MN, MO, NC, NE, NH, NJ, NY, OH, OK, PA, RI, VA, WA, WI, WV
+CA: BC, ON",ELEMENT_GLOBAL.2.100736,,Cygnus_olor,Cygnus olor,,61,
+Nashville Warbler,Leiothlypis ruficapilla,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.105118,,Leiothlypis_ruficapilla,Leiothlypis ruficapilla,,105,
+Nelson's Sparrow,Ammospiza nelsoni,Vertebrates,Birds,G5,,Not at Risk,,"US: AL, AR, CA, CT, DE, FL, GA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TX, VA, VT, WI
+CA: AB, BC, MB, NB, NS, NT, ON, PE, QC, SK",ELEMENT_GLOBAL.2.103846,ABPBXA0070,Ammospiza_nelsoni,Ammospiza nelsoni,,85,S4N
+Northern Bobwhite,Colinus virginianus,Vertebrates,Birds,G4,,Endangered,Endangered/En voie de disparition,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, MT, NC, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV, WY
+CA: AB, BC, ON",ELEMENT_GLOBAL.2.106280,ABNLC21020,Colinus_virginianus,Colinus virginianus,,97,S3
+Northern Cardinal,Cardinalis cardinalis,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: MB, NB, NS, ON, QC",ELEMENT_GLOBAL.2.105565,ABPBX60010,Cardinalis_cardinalis,Cardinalis cardinalis,,97,S5
+Northern Flicker,Colaptes auratus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.106142,ABNYF10020,Colaptes_auratus,Colaptes auratus,,109,"S5B,S5N"
+Northern Fulmar,Fulmarus glacialis,Vertebrates,Birds,G5,,,,"US: AK, DE, MA, MD, ME, NC, NH, NJ, OR, RI, WA
+CA: BC, LB, NB, NF, NS, NU, PE, QC",ELEMENT_GLOBAL.2.102679,,Fulmarus_glacialis,Fulmarus glacialis,,25,
+Northern Gannet,Morus bassanus,Vertebrates,Birds,G5,,,,"US: AL, DE, FL, GA, LA, MA, MD, ME, MS, NC, NH, NJ, NY, RI, TX, VA
+CA: NB, NF, NS, ON, PE, QC",ELEMENT_GLOBAL.2.101189,ABNFB02010,Morus_bassanus,Morus bassanus,,41,S5N
+Northern Goshawk,Accipiter gentilis,Vertebrates,Birds,G5,,,,"US: AK, AZ, CA, CO, CT, DE, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, UT, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104351,,Accipiter_gentilis,Accipiter gentilis,,77,
+Northern Harrier,Circus hudsonius,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104766,ABNKC11011,Circus_hudsonius,Circus hudsonius,,109,"S1B,S4N"
+Northern Mockingbird,Mimus polyglottos,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WI, WV, WY
+CA: BC, MB, NB, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.100932,ABPBK03010,Mimus_polyglottos,Mimus polyglottos,,105,S5
+Northern Parula,Setophaga americana,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.102108,ABPBX02010,Setophaga_americana,Setophaga americana,,93,S5B
+Northern Pintail,Anas acuta,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103829,ABNJB10110,Anas_acuta,Anas acuta,,113,S4N
+Northern Rough-winged Swallow,Stelgidopteryx serripennis,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, ON, QC, SK, YT",ELEMENT_GLOBAL.2.100539,ABPAU07010,Stelgidopteryx_serripennis,Stelgidopteryx serripennis,,109,S4B
+Northern Saw-whet Owl,Aegolius acadicus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, GA, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OR, PA, RI, SC, SD, TN, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.106412,ABNSB15020,Aegolius_acadicus,Aegolius acadicus,,93,"S2B,S2N"
+Northern Saw-whet Owl - Southern Appalachians,Aegolius acadicus pop. 1,Vertebrates,Birds,T3,,,,US: NC,ELEMENT_GLOBAL.52.4125,,Aegolius_acadicus_pop_1,Aegolius acadicus pop 1,,5,
+Northern Shoveler,Spatula clypeata,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101986,ABNJB10150,Spatula_clypeata,Spatula clypeata,,113,S3N
+Northern Waterthrush,Parkesia noveboracensis,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102665,,Parkesia_noveboracensis,Parkesia noveboracensis,,105,
+Olive-sided Flycatcher,Contopus cooperi,Vertebrates,Birds,G4,,Special Concern,Threatened/Menacée,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102228,,Contopus_cooperi,Contopus cooperi,,109,
+Orange-crowned Warbler,Leiothlypis celata,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, QC, SK, YT",ELEMENT_GLOBAL.2.101318,,Leiothlypis_celata,Leiothlypis celata,,109,
+Orchard Oriole,Icterus spurius,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY
+CA: MB, ON, SK",ELEMENT_GLOBAL.2.104372,ABPBXB9070,Icterus_spurius,Icterus spurius,,93,S5B
+Osprey,Pandion haliaetus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105808,ABNKC01010,Pandion_haliaetus,Pandion haliaetus,,113,S4B
+Ovenbird,Seiurus aurocapilla,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103515,ABPBX10010,Seiurus_aurocapilla,Seiurus aurocapilla,,101,"S5B,S1N"
+Pacific Loon,Gavia pacifica,Vertebrates,Birds,G5,,,,"US: AK, AL, AZ, CA, ID, IL, MN, NC, NM, NN, TX, UT, VT, WA
+CA: AB, BC, MB, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.100814,,Gavia_pacifica,Gavia pacifica,,33,
+Painted Bunting,Passerina ciris,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, FL, GA, KS, LA, MO, MS, NC, NM, OK, SC, TN, TX",ELEMENT_GLOBAL.2.100705,ABPBX64060,Passerina_ciris,Passerina ciris,,41,S2B
+Palm Warbler,Setophaga palmarum,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104190,ABPBX03210,Setophaga_palmarum,Setophaga palmarum,,97,S4N
+Parasitic Jaeger,Stercorarius parasiticus,Vertebrates,Birds,G5,,,,"US: AK, AL, CA, CT, DC, DE, FL, GA, ID, IL, IN, MA, MD, ME, MI, MN, MS, NC, NH, NJ, NN, NY, OH, OR, RI, SC, TX, VA, VT, WA
+CA: AB, BC, LB, MB, NB, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100286,,Stercorarius_parasiticus,Stercorarius parasiticus,,73,
+Passenger Pigeon,Ectopistes migratorius,Vertebrates,Birds,GX,,Extinct,,"US: AL, AR, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NV, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NU, ON, PE, QC, SK",ELEMENT_GLOBAL.2.104865,,Ectopistes_migratorius,Ectopistes migratorius,,93,
+Pectoral Sandpiper,Calidris melanotos,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104343,,Calidris_melanotos,Calidris melanotos,,113,
+Peregrine Falcon,Falco peregrinus,Vertebrates,Birds,G4,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102654,ABNKD06070,Falco_peregrinus,Falco peregrinus,,109,"S1B,S2N"
+Philadelphia Vireo,Vireo philadelphicus,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, SC, SD, TN, TX, VA, VT, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100611,,Vireo_philadelphicus,Vireo philadelphicus,,89,
+Pied-billed Grebe,Podilymbus podiceps,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100209,ABNCA02010,Podilymbus_podiceps,Podilymbus podiceps,,109,"S3B,S5N"
+Pileated Woodpecker,Dryocopus pileatus,Vertebrates,Birds,G5,,,,"US: AL, AR, CA, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV
+CA: AB, BC, MB, NB, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102132,ABNYF12020,Dryocopus_pileatus,Dryocopus pileatus,,97,S5
+Pine Siskin,Spinus pinus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OK, OR, PA, RI, SC, SD, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101582,ABPBY06030,Spinus_pinus,Spinus pinus,,105,"S1B,S3N"
+Pine Warbler,Setophaga pinus,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: MB, NB, NS, ON, PE, QC",ELEMENT_GLOBAL.2.101876,ABPBX03170,Setophaga_pinus,Setophaga pinus,,85,"S5B,S4N"
+Piping Plover,Charadrius melodus,Vertebrates,Birds,G3,"Listed endangered, listed threatened",,,"US: AL, AR, CO, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, WI, WY
+CA: AB, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.106046,ABNNB03070,Charadrius_melodus,Charadrius melodus,,89,"S1B,S1N"
+Piping Plover,Charadrius melodus melodus,Vertebrates,Birds,T3,,Endangered,Endangered/En voie de disparition,"US: NC
+CA: NB, NF, NS, PE",ELEMENT_GLOBAL.2.741174,,Charadrius_melodus_melodus,Charadrius melodus melodus,,5,
+Piping Plover,Charadrius melodus circumcinctus,Vertebrates,Birds,T3,,Endangered,Endangered/En voie de disparition,"US: NC
+CA: AB, MB, ON, SK",ELEMENT_GLOBAL.2.741188,,Charadrius_melodus_circumcinctus,Charadrius melodus circumcinctus,,5,
+Pomarine Jaeger,Stercorarius pomarinus,Vertebrates,Birds,G5,,,,"US: AK, AL, CA, DE, FL, GA, HI, IN, MA, MD, ME, MI, MS, NC, NH, NJ, NY, OR, RI, SC, TX, VA, VT, WA
+CA: BC, MB, NB, NS, NT, NU, ON, PE, QC, YT",ELEMENT_GLOBAL.2.106141,,Stercorarius_pomarinus,Stercorarius pomarinus,,57,
+Prairie Warbler,Setophaga discolor,Vertebrates,Birds,G5,,Not at Risk,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV
+CA: ON",ELEMENT_GLOBAL.2.103980,ABPBX03190,Setophaga_discolor,Setophaga discolor,,85,"S5B,S1N"
+Prothonotary Warbler,Protonotaria citrea,Vertebrates,Birds,G5,,Endangered,Endangered/En voie de disparition,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, WI, WV
+CA: ON",ELEMENT_GLOBAL.2.100372,ABPBX07010,Protonotaria_citrea,Protonotaria citrea,,89,S5B
+Purple Finch,Haemorhous purpureus,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102759,ABPBY04020,Haemorhous_purpureus,Haemorhous purpureus,,97,S2N
+Purple Gallinule,Porphyrio martinicus,Vertebrates,Birds,G5,,,,"US: AL, AR, FL, GA, LA, MS, NC, NJ, NN, NY, OK, SC, TN, TX",ELEMENT_GLOBAL.2.102049,ABNME12010,Porphyrio_martinicus,Porphyrio martinicus,,29,S1B
+Purple Martin,Progne subis,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NN, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, ON, QC, SK",ELEMENT_GLOBAL.2.104037,ABPAU01010,Progne_subis,Progne subis,,97,S5B
+Purple Sandpiper,Calidris maritima,Vertebrates,Birds,G5,,,,"US: CT, DE, FL, GA, IL, IN, MA, MD, ME, MI, NC, NH, NJ, NY, PA, RI, VA, VT
+CA: LB, NB, NF, NS, NT, NU, ON, PE, QC",ELEMENT_GLOBAL.2.103345,ABNNF11150,Calidris_maritima,Calidris maritima,,45,S1N
+Razorbill,Alca torda,Vertebrates,Birds,G5,,,,"US: MA, MD, ME, NC, NH, NJ, NY, RI
+CA: LB, NB, NF, NS, NU, PE, QC",ELEMENT_GLOBAL.2.100936,ABNNN03010,Alca_torda,Alca torda,,17,S3N
+Red Crossbill,Loxia curvirostra,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, GA, IA, ID, IL, IN, KS, KY, MA, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.1009908,ABPBY05050,Loxia_curvirostra,Loxia curvirostra,,93,S2
+Red Crossbill - Southern Appalachians,Loxia curvirostra pop. 1,Vertebrates,Birds,T3,,,,US: NC,ELEMENT_GLOBAL.52.6887,,Loxia_curvirostra_pop_1,Loxia curvirostra pop 1,,5,
+Red Knot,Calidris canutus,Vertebrates,Birds,G4,,,,"US: AK, AL, AR, CA, CO, CT, DC, DE, FL, GA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, WA, WI
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK",ELEMENT_GLOBAL.2.100057,,Calidris_canutus,Calidris canutus,,93,
+Red Knot,Calidris canutus rufa,Vertebrates,Birds,T2,Listed threatened,Endangered,Endangered/En voie de disparition,"US: AL, AR, CO, DE, FL, GA, IA, IL, IN, KS, KY, LA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NJ, NY, OH, OK, PA, SC, SD, TN, TX, VA, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK",ELEMENT_GLOBAL.2.788148,,Calidris_canutus_rufa,Calidris canutus rufa,,81,
+Red Phalarope,Phalaropus fulicarius,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, DC, DE, FL, GA, HI, IN, MA, MD, ME, MI, NC, NH, NJ, NY, OH, OK, OR, PA, RI, SC, TX, VA, WA
+CA: BC, NB, NS, NT, NU, ON, QC, YT",ELEMENT_GLOBAL.2.636983,ABNNF20030,Phalaropus_fulicarius,Phalaropus fulicarius,,69,S2N
+Red-bellied Woodpecker,Melanerpes carolinus,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: MB, ON, QC",ELEMENT_GLOBAL.2.101877,ABNYF04170,Melanerpes_carolinus,Melanerpes carolinus,,85,S5
+Red-billed Tropicbird,Phaethon aethereus,Vertebrates,Birds,G5,,,,"US: GA, NC",ELEMENT_GLOBAL.2.103151,,Phaethon_aethereus,Phaethon aethereus,,9,
+Red-breasted Merganser,Mergus serrator,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105357,ABNJB21020,Mergus_serrator,Mergus serrator,,109,S5N
+Red-breasted Nuthatch,Sitta canadensis,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.106131,ABPAZ01010,Sitta_canadensis,Sitta canadensis,,109,"S3B,S4N"
+Red-cockaded Woodpecker,Dryobates borealis,Vertebrates,Birds,G3,Listed endangered,,,"US: AL, AR, FL, GA, KY, LA, MD, MO, MS, NC, OK, SC, TN, TX, VA",ELEMENT_GLOBAL.2.103433,ABNYF07060,Dryobates_borealis,Dryobates borealis,,41,S2
+Reddish Egret,Egretta rufescens,Vertebrates,Birds,G4,,,,"US: AL, AZ, CA, FL, GA, LA, MS, NC, SC, TX",ELEMENT_GLOBAL.2.101686,,Egretta_rufescens,Egretta rufescens,,33,
+Red-eyed Vireo,Vireo olivaceus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104140,ABPBW01240,Vireo_olivaceus,Vireo olivaceus,,105,S5B
+Redhead,Aythya americana,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NJ, NM, NN, NV, NY, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, ON, QC, SK, YT",ELEMENT_GLOBAL.2.106196,ABNJB11030,Aythya_americana,Aythya americana,,109,S3N
+Red-headed Woodpecker,Melanerpes erythrocephalus,Vertebrates,Birds,G5,,Endangered,Threatened/Menacée,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY
+CA: AB, MB, ON, QC, SK",ELEMENT_GLOBAL.2.103539,ABNYF04040,Melanerpes_erythrocephalus,Melanerpes erythrocephalus,,89,"S4B,S4N"
+Red-necked Grebe,Podiceps grisegena,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, CA, CO, CT, DC, DE, GA, IA, ID, IL, KY, MA, MD, ME, MI, MN, MT, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101127,,Podiceps_grisegena,Podiceps grisegena,,73,
+Red-necked Phalarope,Phalaropus lobatus,Vertebrates,Birds,G4,,Special Concern,Special Concern/Préoccupante,"US: AK, AL, AR, AZ, CA, CO, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TX, UT, VA, VT, WA, WI, WY
+CA: AB, BC, LB, MB, NB, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105225,,Phalaropus_lobatus,Phalaropus lobatus,,97,
+Red-shouldered Hawk,Buteo lineatus,Vertebrates,Birds,G5,,Not at Risk,,"US: AL, AR, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: NB, ON, QC",ELEMENT_GLOBAL.2.103156,ABNKC19030,Buteo_lineatus,Buteo lineatus,,93,"S5B,S5N"
+Red-tailed Hawk,Buteo jamaicensis,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103000,ABNKC19110,Buteo_jamaicensis,Buteo jamaicensis,,109,"S5B,S5N"
+Red-throated Loon,Gavia stellata,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, CA, CO, CT, DE, FL, GA, IL, MA, MD, ME, MI, MN, MS, NC, NH, NJ, NY, PA, RI, SC, TN, VA, VT, WA, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.106180,ABNBA01010,Gavia_stellata,Gavia stellata,,69,S5N
+Red-winged Blackbird,Agelaius phoeniceus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102734,ABPBXB0010,Agelaius_phoeniceus,Agelaius phoeniceus,,109,"S5B,S5N"
+Ring-billed Gull,Larus delawarensis,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK",ELEMENT_GLOBAL.2.100423,ABNNM03100,Larus_delawarensis,Larus delawarensis,,113,S5N
+Ring-necked Duck,Aythya collaris,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100619,ABNJB11040,Aythya_collaris,Aythya collaris,,109,S5N
+Ring-necked Pheasant,Phasianus colchicus,Vertebrates,Birds,G5,,,,"US: AZ, CA, CO, CT, DE, HI, IA, ID, IL, IN, KS, MA, MD, ME, MI, MN, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OK, OR, PA, RI, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, ON, PE, SK",ELEMENT_GLOBAL.2.101333,,Phasianus_colchicus,Phasianus colchicus,,73,
+Rock Pigeon,Columba livia,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105107,,Columba_livia,Columba livia,,109,
+Roseate Spoonbill,Platalea ajaja,Vertebrates,Birds,G5,,,,"US: AR, FL, IL, LA, MS, NC, SC, TX",ELEMENT_GLOBAL.2.101648,,Platalea_ajaja,Platalea ajaja,,25,
+Roseate Tern,Sterna dougallii dougallii,Vertebrates,Birds,T3,"Listed endangered, listed threatened",,,"US: CT, FL, MA, MD, ME, NC, NH, NJ, NY, SC, VA
+CA: NS",ELEMENT_GLOBAL.2.102915,,Sterna_dougallii_dougallii,Sterna dougallii dougallii,,25,
+Roseate Tern,Sterna dougallii,Vertebrates,Birds,G4,,Endangered,Endangered/En voie de disparition,"US: CT, DE, FL, MA, MD, ME, NC, NH, NJ, NY, RI, VA
+CA: NF, NS, QC",ELEMENT_GLOBAL.2.105391,ABNNM08060,Sterna_dougallii,Sterna dougallii,,29,SHB
+Rose-breasted Grosbeak,Pheucticus ludovicianus,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102231,ABPBX61030,Pheucticus_ludovicianus,Pheucticus ludovicianus,,101,S4B
+Ross's Goose,Anser rossii,Vertebrates,Birds,G4,,,,"US: AL, AZ, CA, CO, IA, ID, IL, KS, KY, LA, MN, MO, MT, NC, ND, NE, NM, NN, NV, OK, OR, SD, TX, UT, WY
+CA: AB, MB, NT, NU, ON, QC, SK",ELEMENT_GLOBAL.2.104055,ABNJB04020,Anser_rossii,Anser rossii,,57,S1N
+Rough-legged Hawk,Buteo lagopus,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, GA, IA, ID, IL, IN, KS, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105206,,Buteo_lagopus,Buteo lagopus,,93,
+Royal Tern,Thalasseus maximus,Vertebrates,Birds,G5,,,,"US: AL, CA, CT, DE, FL, GA, LA, MA, MD, MS, NC, NJ, NM, NY, RI, SC, TX, VA",ELEMENT_GLOBAL.2.104053,ABNNM08180,Thalasseus_maximus,Thalasseus maximus,,45,"S4B,S4N"
+Ruby-crowned Kinglet,Regulus calendula,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102517,ABPBJ05020,Regulus_calendula,Regulus calendula,,109,S5N
+Ruby-throated Hummingbird,Archilochus colubris,Vertebrates,Birds,G5,,,,"US: AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NV, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.105069,ABNUC45010,Archilochus_colubris,Archilochus colubris,,85,S5B
+Ruddy Duck,Oxyura jamaicensis,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100365,ABNJB22030,Oxyura_jamaicensis,Oxyura jamaicensis,,105,S5N
+Ruddy Turnstone,Arenaria interpres,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, CA, CO, CT, DC, DE, FL, GA, HI, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102944,ABNNF09010,Arenaria_interpres,Arenaria interpres,,101,S3N
+Ruff,Calidris pugnax,Vertebrates,Birds,G5,,,,"US: AK, DE, HI, IL, MA, NC, NJ, NY, WA
+CA: ON",ELEMENT_GLOBAL.2.101777,,Calidris_pugnax,Calidris pugnax,,25,
+Ruffed Grouse,Bonasa umbellus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, CA, CO, CT, DC, DE, GA, IA, ID, IL, IN, KS, KY, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NV, NY, OH, OR, PA, RI, SC, SD, TN, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102687,ABNLC11010,Bonasa_umbellus,Bonasa umbellus,,93,S4
+Rufous Hummingbird,Selasphorus rufus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, ID, KS, LA, MS, MT, NC, NE, NM, NN, NV, OK, OR, SD, TX, UT, WA, WY
+CA: AB, BC, YT",ELEMENT_GLOBAL.2.102866,,Selasphorus_rufus,Selasphorus rufus,,49,
+Rusty Blackbird,Euphagus carolinus,Vertebrates,Birds,G4,,Special Concern,Special Concern/Préoccupante,"US: AK, AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101597,ABPBXB5010,Euphagus_carolinus,Euphagus carolinus,,97,S3N
+Sabine's Gull,Xema sabini,Vertebrates,Birds,G5,,,,"US: AK, AZ, CA, CO, ID, IL, KS, MA, MI, NC, NM, NY, OR, SD, TX, UT, VT, WY
+CA: AB, BC, MB, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.106341,,Xema_sabini,Xema sabini,,41,
+Saltmarsh Sparrow,Ammospiza caudacuta,Vertebrates,Birds,G2,,,,"US: CT, DE, FL, GA, MA, MD, ME, NC, NH, NJ, NY, PA, RI, SC, VA",ELEMENT_GLOBAL.2.102378,ABPBXA0050,Ammospiza_caudacuta,Ammospiza caudacuta,,33,"SUB,S2N"
+Sanderling,Calidris alba,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102190,ABNNF11030,Calidris_alba,Calidris alba,,113,S5N
+Sandhill Crane,Antigone canadensis,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MI, MN, MO, MS, MT, NC, ND, NE, NJ, NM, NN, NV, NY, OH, OK, OR, PA, SC, SD, TN, TX, UT, VT, WA, WI, WY
+CA: AB, BC, MB, NB, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.104550,,Antigone_canadensis,Antigone canadensis,,89,
+Sandwich Tern,Thalasseus sandvicensis,Vertebrates,Birds,G5,,,,"US: AL, FL, GA, LA, MA, MD, MS, NC, NJ, SC, TX, VA",ELEMENT_GLOBAL.2.103220,ABNNM08050,Thalasseus_sandvicensis,Thalasseus sandvicensis,,33,S3B
+Savannah Sparrow,Passerculus sandwichensis,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103538,ABPBX99010,Passerculus_sandwichensis,Passerculus sandwichensis,,109,"S2B,S5N"
+Scarlet Tanager,Piranga olivacea,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: MB, NB, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.101306,ABPBX45040,Piranga_olivacea,Piranga olivacea,,89,S5B
+Scissor-tailed Flycatcher,Tyrannus forficatus,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, FL, KS, LA, MO, NC, NE, NM, OK, TN, TX
+CA: ON",ELEMENT_GLOBAL.2.100078,,Tyrannus_forficatus,Tyrannus forficatus,,33,
+Seaside Sparrow,Ammospiza maritima,Vertebrates,Birds,G4,,,,"US: AL, CT, DE, FL, GA, LA, MA, MD, ME, MS, NC, NH, NJ, NY, RI, SC, TX, VA",ELEMENT_GLOBAL.2.104429,ABPBXA0060,Ammospiza_maritima,Ammospiza maritima,,45,"S4B,S4N"
+Sedge Wren,Cistothorus platensis,Vertebrates,Birds,G5,,Not at Risk,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NY, OH, OK, PA, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, MB, NB, ON, QC, SK",ELEMENT_GLOBAL.2.105322,ABPBG10030,Cistothorus_platensis,Cistothorus platensis,,93,"SUB,S4N"
+Semipalmated Plover,Charadrius semipalmatus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103068,ABNNB03060,Charadrius_semipalmatus,Charadrius semipalmatus,,113,S4N
+Semipalmated Sandpiper,Calidris pusilla,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104508,,Calidris_pusilla,Calidris pusilla,,109,
+Sharp-shinned Hawk,Accipiter striatus,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.771066,ABNKC12020,Accipiter_striatus,Accipiter striatus,,109,"S1B,S4N"
+Shiny Cowbird,Molothrus bonariensis,Vertebrates,Birds,G5,,,,"US: AL, FL, GA, NC",ELEMENT_GLOBAL.2.104019,,Molothrus_bonariensis,Molothrus bonariensis,,17,
+Short-billed Dowitcher,Limnodromus griseus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101082,ABNNF16010,Limnodromus_griseus,Limnodromus griseus,,101,S4N
+Short-eared Owl,Asio flammeus,Vertebrates,Birds,G5,,Special Concern,Special Concern/Préoccupante,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100351,ABNSB13040,Asio_flammeus,Asio flammeus,,113,"SUB,S3N"
+Snow Bunting,Plectrophenax nivalis,Vertebrates,Birds,G5,,,,"US: AK, CO, CT, DC, DE, GA, IA, ID, IL, IN, KY, MA, MD, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NY, OH, OR, PA, RI, SC, SD, TN, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104471,,Plectrophenax_nivalis,Plectrophenax nivalis,,77,
+Snow Goose,Anser caerulescens,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.101815,ABNJB04010,Anser_caerulescens,Anser caerulescens,,109,S4N
+Snowy Egret,Egretta thula,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, RI, SC, SD, TN, TX, UT, VA, WA, WY
+CA: MB, NS, ON, SK",ELEMENT_GLOBAL.2.100485,ABNGA06030,Egretta_thula,Egretta thula,,101,"S2B,S3N"
+Snowy Owl,Bubo scandiacus,Vertebrates,Birds,G5,,Not at Risk,,"US: AK, CO, CT, DC, DE, IA, ID, IL, IN, KS, KY, MA, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NY, OH, OR, PA, SD, VA, VT, WA, WI, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103975,,Bubo_scandiacus,Bubo scandiacus,,73,
+Solitary Sandpiper,Tringa solitaria,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105827,,Tringa_solitaria,Tringa solitaria,,109,
+Song Sparrow,Melospiza melodia,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.104278,ABPBXA3010,Melospiza_melodia,Melospiza melodia,,109,"S5B,S5N"
+Sooty Shearwater,Ardenna grisea,Vertebrates,Birds,G5,,,,"US: AK, CA, DE, FL, GA, MA, MD, ME, NC, NH, NJ, NY, OR, RI, VA, WA
+CA: BC, NB, NS, PE, QC",ELEMENT_GLOBAL.2.103124,,Ardenna_grisea,Ardenna grisea,,37,
+Sooty Tern,Onychoprion fuscatus,Vertebrates,Birds,G5,,,,"US: AL, FL, HI, LA, NC, SC, TX",ELEMENT_GLOBAL.2.101718,ABNNM08150,Onychoprion_fuscatus,Onychoprion fuscatus,,21,"SHB,S3N"
+Sora,Porzana carolina,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103998,ABNME08020,Porzana_carolina,Porzana carolina,,109,S3N
+South Polar Skua,Stercorarius maccormicki,Vertebrates,Birds,G5,,,,"US: CA, DE, MD, NC, NJ, OR, WA
+CA: BC",ELEMENT_GLOBAL.2.101169,,Stercorarius_maccormicki,Stercorarius maccormicki,,17,
+Spotted Sandpiper,Actitis macularius,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105831,,Actitis_macularius,Actitis macularius,,109,
+Stilt Sandpiper,Calidris himantopus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, WA, WI, WY
+CA: AB, BC, MB, NB, NS, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.100427,,Calidris_himantopus,Calidris himantopus,,109,
+Summer Tanager,Piranga rubra,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NM, NV, OH, OK, PA, SC, SD, TN, TX, UT, VA, WV",ELEMENT_GLOBAL.2.102430,ABPBX45030,Piranga_rubra,Piranga rubra,,89,S5B
+Surf Scoter,Melanitta perspicillata,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NH, NJ, NY, OH, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100806,ABNJB17020,Melanitta_perspicillata,Melanitta perspicillata,,97,S4N
+Swainson's Thrush,Catharus ustulatus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.100960,ABPBJ18100,Catharus_ustulatus,Catharus ustulatus,,109,"S1B,S5N"
+Swainson's Warbler,Limnothlypis swainsonii,Vertebrates,Birds,G4,,,,"US: AL, AR, DE, FL, GA, IL, KY, LA, MD, MO, MS, NC, NJ, OK, SC, TN, TX, VA, WV",ELEMENT_GLOBAL.2.103514,ABPBX09010,Limnothlypis_swainsonii,Limnothlypis swainsonii,,49,S4B
+Swallow-tailed Kite,Elanoides forficatus,Vertebrates,Birds,G5,,,,"US: AL, AR, FL, GA, IA, IL, IN, KS, KY, LA, MN, MO, MS, NC, NE, NJ, OH, OK, SC, TX, WI",ELEMENT_GLOBAL.2.105003,ABNKC04010,Elanoides_forficatus,Elanoides forficatus,,57,S1B
+Swamp Sparrow,Melospiza georgiana,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103651,ABPBXA3030,Melospiza_georgiana,Melospiza georgiana,,101,S5N
+Tennessee Warbler,Leiothlypis peregrina,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101955,,Leiothlypis_peregrina,Leiothlypis peregrina,,105,
+Thayer's Gull,Larus glaucoides thayeri,Vertebrates,Birds,T5,,,,"US: AK, CA, CO, IL, IN, KY, MI, MN, MO, NC, NV, NY, OR, UT, WA
+CA: AB, BC, MB, NT, NU, ON, YT",ELEMENT_GLOBAL.2.104545,,Larus_glaucoides_thayeri,Larus glaucoides thayeri,,41,
+Thick-billed Murre,Uria lomvia,Vertebrates,Birds,G5,,,,"US: AK, DC, MA, ME, NC, NH, NJ, NY, RI, WA
+CA: BC, LB, NB, NF, NS, NT, NU, PE, QC",ELEMENT_GLOBAL.2.100797,,Uria_lomvia,Uria lomvia,,21,
+Tree Swallow,Tachycineta bicolor,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101167,ABPAU03010,Tachycineta_bicolor,Tachycineta bicolor,,109,"S3B,S4N"
+Tricolored Heron,Egretta tricolor,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CT, DC, DE, FL, GA, KS, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, PA, RI, SC, SD, TX, VA
+CA: ON",ELEMENT_GLOBAL.2.102427,ABNGA06050,Egretta_tricolor,Egretta tricolor,,69,"S2B,S3N"
+Trindade Petrel,Pterodroma arminjoniana,Vertebrates,Birds,G4,,,,US: NC,ELEMENT_GLOBAL.2.971555,,Pterodroma_arminjoniana,Pterodroma arminjoniana,,5,
+Tufted Titmouse,Baeolophus bicolor,Vertebrates,Birds,G5,,,,"US: AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: ON, QC",ELEMENT_GLOBAL.2.101297,ABPAW01110,Baeolophus_bicolor,Baeolophus bicolor,,85,S5
+Tundra Swan,Cygnus columbianus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, DC, DE, GA, IA, ID, IL, IN, KS, KY, MD, MI, MN, MO, MT, NC, ND, NE, NJ, NM, NN, NV, NY, OH, OR, PA, SC, SD, TN, TX, UT, VA, WA, WI, WV, WY
+CA: AB, BC, MB, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.105749,ABNJB02010,Cygnus_columbianus,Cygnus columbianus,,85,S5N
+Turkey Vulture,Cathartes aura,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, ON, QC, SK",ELEMENT_GLOBAL.2.103261,ABNKA02010,Cathartes_aura,Cathartes aura,,105,"S5B,S5N"
+Upland Sandpiper,Bartramia longicauda,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102059,,Bartramia_longicauda,Bartramia longicauda,,105,
+Veery,Catharus fuscescens,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NY, OH, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.103031,ABPBJ18080,Catharus_fuscescens,Catharus fuscescens,,101,S4B
+Vesper Sparrow,Pooecetes gramineus,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, ON, PE, QC, SK",ELEMENT_GLOBAL.2.103115,ABPBX95010,Pooecetes_gramineus,Pooecetes gramineus,,105,"S2B,S2N"
+Virginia Rail,Rallus limicola,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.106335,ABNME05030,Rallus_limicola,Rallus limicola,,105,"S3B,S5N"
+Warbling Vireo,Vireo gilvus,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, NT, ON, QC, SK, YT",ELEMENT_GLOBAL.2.101222,ABPBW01210,Vireo_gilvus,Vireo gilvus,,109,S2B
+Wayne's Warbler,Setophaga virens waynei,Vertebrates,Birds,T1,,,,"US: MD, NC, SC, VA",ELEMENT_GLOBAL.2.102666,,Setophaga_virens_waynei,Setophaga virens waynei,,9,
+Western Kingbird,Tyrannus verticalis,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, FL, GA, IA, ID, IL, KS, LA, MA, MI, MN, MO, MS, MT, NC, ND, NE, NJ, NM, NN, NV, OH, OK, OR, SC, SD, TX, UT, WA, WI, WY
+CA: AB, BC, MB, ON, SK",ELEMENT_GLOBAL.2.104787,,Tyrannus_verticalis,Tyrannus verticalis,,81,
+Western Sandpiper,Calidris mauri,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, WA, WI, WV, WY
+CA: AB, BC, ON, YT",ELEMENT_GLOBAL.2.104028,ABNNF11050,Calidris_mauri,Calidris mauri,,109,S4N
+Western Tanager,Piranga ludoviciana,Vertebrates,Birds,G5,,,,"US: AK, AL, AZ, CA, CO, FL, ID, KS, LA, MN, MT, NC, ND, NE, NJ, NM, NN, NV, OK, OR, SD, TX, UT, WA, WY
+CA: AB, BC, NT, SK, YT",ELEMENT_GLOBAL.2.105777,,Piranga_ludoviciana,Piranga ludoviciana,,49,
+Whimbrel,Numenius phaeopus,Vertebrates,Birds,G5,,,,"US: AK, AL, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, KS, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, NE, NH, NJ, NN, NV, NY, OH, OK, OR, PA, RI, SC, TX, UT, VA, WA, WI, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105017,,Numenius_phaeopus,Numenius phaeopus,,93,
+White Ibis,Eudocimus albus,Vertebrates,Birds,G5,,,,"US: AL, AR, FL, GA, LA, MS, NC, NJ, SC, TN, TX, VA",ELEMENT_GLOBAL.2.100028,ABNGE01010,Eudocimus_albus,Eudocimus albus,,29,"S3B,S3N"
+White-breasted Nuthatch,Sitta carolinensis,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.105632,ABPAZ01020,Sitta_carolinensis,Sitta carolinensis,,105,"S5B,S5N"
+White-crowned Sparrow,Zonotrichia leucophrys,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.106488,ABPBXA4040,Zonotrichia_leucophrys,Zonotrichia leucophrys,,109,S4N
+White-eyed Vireo,Vireo griseus,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, NC, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, WI, WV",ELEMENT_GLOBAL.2.103052,ABPBW01020,Vireo_griseus,Vireo griseus,,81,"S5B,S1N"
+White-faced Storm-Petrel,Pelagodroma marina,Vertebrates,Birds,G5,,,,US: NC,ELEMENT_GLOBAL.2.106508,,Pelagodroma_marina,Pelagodroma marina,,5,
+White-rumped Sandpiper,Calidris fuscicollis,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY
+CA: AB, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.106382,,Calidris_fuscicollis,Calidris fuscicollis,,93,
+White-tailed Tropicbird,Phaethon lepturus,Vertebrates,Birds,G5,,,,"US: FL, GA, HI, NC",ELEMENT_GLOBAL.2.104160,,Phaethon_lepturus,Phaethon lepturus,,17,
+White-throated Sparrow,Zonotrichia albicollis,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102710,ABPBXA4020,Zonotrichia_albicollis,Zonotrichia albicollis,,109,S5N
+White-winged Crossbill,Loxia leucoptera,Vertebrates,Birds,G5,,,,"US: AK, CO, CT, DC, IA, ID, IL, IN, KS, KY, MA, ME, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NY, OH, SD, UT, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105473,,Loxia_leucoptera,Loxia leucoptera,,69,
+White-winged Dove,Zenaida asiatica,Vertebrates,Birds,G5,,,,"US: AL, AZ, CA, FL, KS, LA, MS, NC, NM, NN, NV, TX, UT",ELEMENT_GLOBAL.2.100288,,Zenaida_asiatica,Zenaida asiatica,,33,
+White-winged Scoter,Melanitta deglandi,Vertebrates,Birds,GNR,,,,"US: AK, AL, AZ, CA, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MS, NC, ND, NE, NH, NJ, NY, OH, OR, PA, RI, SC, SD, TN, UT, VA, VT, WA, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.1130264,,Melanitta_deglandi,Melanitta deglandi,,93,
+Wild Turkey,Meleagris gallopavo,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, ON, QC, SK",ELEMENT_GLOBAL.2.104229,ABNLC14010,Meleagris_gallopavo,Meleagris gallopavo,,105,S5
+Willet,Tringa semipalmata,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, WA, WI, WY
+CA: AB, LB, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.100605,ABNNF02010,Tringa_semipalmata,Tringa semipalmata,,105,"S4B,S4N"
+Willow Flycatcher,Empidonax traillii,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, MB, NB, NS, ON, QC, SK",ELEMENT_GLOBAL.2.103270,ABPAE33040,Empidonax_traillii,Empidonax traillii,,101,S3B
+Wilson's Phalarope,Phalaropus tricolor,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, WA, WI, WY
+CA: AB, BC, MB, NB, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105425,,Phalaropus_tricolor,Phalaropus tricolor,,101,
+Wilson's Plover,Charadrius wilsonia,Vertebrates,Birds,G5,,,,"US: AL, FL, GA, LA, MD, MS, NC, NJ, SC, TX, VA",ELEMENT_GLOBAL.2.104251,ABNNB03040,Charadrius_wilsonia,Charadrius wilsonia,,29,S2B
+Wilson's Snipe,Gallinago delicata,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.103058,ABNNF18030,Gallinago_delicata,Gallinago delicata,,109,S5N
+Wilson's Storm-Petrel,Oceanites oceanicus,Vertebrates,Birds,G5,,,,"US: AL, DE, FL, GA, MA, MD, ME, NC, NH, NJ, NY, RI, VA
+CA: NB, NS, PE, QC",ELEMENT_GLOBAL.2.103558,ABNDC01010,Oceanites_oceanicus,Oceanites oceanicus,,33,S5N
+Wilson's Warbler,Cardellina pusilla,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, QC, SK, YT",ELEMENT_GLOBAL.2.100788,,Cardellina_pusilla,Cardellina pusilla,,109,
+Winter Wren,Troglodytes hiemalis,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NN, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.866835,ABPBG09100,Troglodytes_hiemalis,Troglodytes hiemalis,,93,"S3B,S5N"
+Wood Duck,Aix sponsa,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, ON, PE, QC, SK",ELEMENT_GLOBAL.2.104243,ABNJB09010,Aix_sponsa,Aix sponsa,,105,"S5B,S4N"
+Wood Stork,Mycteria americana,Vertebrates,Birds,G4,,,,"US: AL, AR, AZ, CA, DC, FL, GA, LA, MS, NC, SC, TN, TX",ELEMENT_GLOBAL.2.105982,ABNGF02010,Mycteria_americana,Mycteria americana,,41,"S1B,S1N"
+Wood Thrush,Hylocichla mustelina,Vertebrates,Birds,G4,,Threatened,Threatened/Menacée,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV, WY
+CA: NB, NS, ON, QC",ELEMENT_GLOBAL.2.106491,ABPBJ19010,Hylocichla_mustelina,Hylocichla mustelina,,89,S3B
+Worm-eating Warbler,Helmitheros vermivorum,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MO, MS, NC, NE, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, WI, WV",ELEMENT_GLOBAL.2.104782,ABPBX08010,Helmitheros_vermivorum,Helmitheros vermivorum,,81,S4B
+Worm-eating Warbler - Coastal Plain Population,Helmitheros vermivorum pop. 1,Vertebrates,Birds,TNR,,,,US: NC,ELEMENT_GLOBAL.52.4217,,Helmitheros_vermivorum_pop_1,Helmitheros vermivorum pop 1,,5,
+Yellow Rail,Coturnicops noveboracensis,Vertebrates,Birds,G4,,Special Concern,Special Concern/Préoccupante,"US: AL, AR, CA, DC, FL, GA, IA, IL, IN, KS, KY, LA, MA, ME, MI, MN, MO, MS, MT, NC, ND, NE, NJ, NY, OH, OR, SD, TX, VA, WI
+CA: AB, BC, MB, NT, NU, ON, QC, SK",ELEMENT_GLOBAL.2.100233,ABNME01010,Coturnicops_noveboracensis,Coturnicops noveboracensis,,81,S2N
+Yellow Warbler,Setophaga petechia,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.106383,ABPBX03010,Setophaga_petechia,Setophaga petechia,,109,S3B
+Yellow-bellied Flycatcher,Empidonax flaviventris,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.105866,,Empidonax_flaviventris,Empidonax flaviventris,,85,
+Yellow-bellied Sapsucker,Sphyrapicus varius,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NN, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: AB, BC, LB, MB, NB, NF, NS, NT, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.102671,ABNYF05010,Sphyrapicus_varius,Sphyrapicus varius,,89,"S2B,S5N"
+Yellow-billed Cuckoo,Coccyzus americanus,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: BC, ON, QC",ELEMENT_GLOBAL.2.105709,ABNRB02020,Coccyzus_americanus,Coccyzus americanus,,105,S5B
+Yellow-breasted Chat,Icteria virens,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, MT, NC, ND, NE, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, WA, WI, WV, WY
+CA: AB, BC, ON, SK",ELEMENT_GLOBAL.2.104641,ABPBX24010,Icteria_virens,Icteria virens,,101,S5B
+Yellow-crowned Night-Heron,Nyctanassa violacea,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, WI, WV",ELEMENT_GLOBAL.2.106355,ABNGA13010,Nyctanassa_violacea,Nyctanassa violacea,,85,S2B
+Yellow-headed Blackbird,Xanthocephalus xanthocephalus,Vertebrates,Birds,G5,,,,"US: AL, AR, AZ, CA, CO, FL, GA, IA, ID, IL, IN, KS, KY, MA, MI, MN, MO, MS, MT, NC, ND, NE, NJ, NM, NN, NV, OK, OR, SD, TX, UT, WA, WI, WY
+CA: AB, BC, MB, ON, SK",ELEMENT_GLOBAL.2.106463,,Xanthocephalus_xanthocephalus,Xanthocephalus xanthocephalus,,81,
+Yellow-rumped Warbler,Setophaga coronata,Vertebrates,Birds,G5,,,,"US: AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NN, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY
+CA: AB, BC, LB, MB, NB, NF, NS, NT, NU, ON, PE, QC, SK, YT",ELEMENT_GLOBAL.2.101442,ABPBX03060,Setophaga_coronata,Setophaga coronata,,109,"S1B,S5N"
+Yellow-throated Vireo,Vireo flavifrons,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV
+CA: MB, ON, QC, SK",ELEMENT_GLOBAL.2.103231,ABPBW01170,Vireo_flavifrons,Vireo flavifrons,,89,S4B
+Yellow-throated Warbler,Setophaga dominica,Vertebrates,Birds,G5,,,,"US: AL, AR, CO, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, NC, NE, NJ, NM, NY, OH, OK, PA, SC, TN, TX, VA, WI, WV",ELEMENT_GLOBAL.2.105611,ABPBX03130,Setophaga_dominica,Setophaga dominica,,77,S5B
+,,,,,,,,,,,,,,,

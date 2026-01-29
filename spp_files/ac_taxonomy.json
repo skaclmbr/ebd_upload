@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "220",
+        "PRIMARY_COM_NAME": "Black-bellied Whistling-Duck",
+        "SCI_NAME": "Dendrocygna autumnalis",
+        "CATEGORY": "species",
+        "NC_STATUS": "definitive",
+        "BONC": {
+            "latest" : {
+                "DATE" : "2020-01-01",
+                "VERSION" : "2020-01-01",
+                "SCIENTIFIC": "Dendrocygna autumnalis",
+                "COMMON": "Black-Bellied Whitsling Duck"
+            }
+        },
+        "EBIRD" : {
+            "latest" : {
+                "DATE" : "2022-01-01",
+                "VERSION" : "2022-01-01",
+                "EBIRD_CODE": "bbwduc", 
+                "TAXON_ORDER": "230",
+            },
+            "2019" : {
+                "DATE" : "2019-01-01",
+                "VERSION" : "2019-01-01",
+                "EBIRD_CODE": "bbwduc", 
+                "TAXON_ORDER": "220"
+            }
+        },
+        "AOU" : {
+            "latest" : {
+                "SPEC4": "BBWD",
+                "SPEC6": "DENAUT"
+            }
+        }
+    }
+]

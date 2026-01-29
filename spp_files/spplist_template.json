@@ -1,0 +1,20 @@
+[
+    {
+        "COMMON_NAME": "Black Vulture",
+        "breedMaxCategory": "C1",
+        "breedStatus": "Detected",
+        "breedDetected": 1,
+        "winterDetected": 0,
+        "interimDetected": 0,
+        "breedChecklists" : [
+
+        ],
+        "breedCodes" : [
+
+        ],
+        "breedCodeAmts" : [
+
+        ],
+        "winterChecklists"
+    }
+]
